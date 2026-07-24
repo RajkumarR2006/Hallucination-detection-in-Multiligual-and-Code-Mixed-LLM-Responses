@@ -1,0 +1,1802 @@
+[
+{
+"id": "tanglish_0",
+"question_en": "Which NFL team represented the AFC at Super Bowl 50?",
+"question": "Super Bowl 50 la AFC ah endha NFL team represent pannanga?",
+"reference_answer": "Denver Broncos"
+},
+{
+"id": "tanglish_1",
+"question_en": "Which NFL team represented the NFC at Super Bowl 50?",
+"question": "Super Bowl 50 la NFC ah endha NFL team represent pannanga?",
+"reference_answer": "Carolina Panthers"
+},
+{
+"id": "tanglish_2",
+"question_en": "Where did Super Bowl 50 take place?",
+"question": "Super Bowl 50 enga nadandhuchu?",
+"reference_answer": "Santa Clara, California"
+},
+{
+"id": "tanglish_3",
+"question_en": "Which NFL team won Super Bowl 50?",
+"question": "Super Bowl 50 ah endha NFL team win pannanga?",
+"reference_answer": "Denver Broncos"
+},
+{
+"id": "tanglish_4",
+"question_en": "What color was used to emphasize the 50th anniversary of the Super Bowl?",
+"question": "Super Bowl oda 50th anniversary ah emphasize panna enna color use pannanga?",
+"reference_answer": "gold"
+},
+{
+"id": "tanglish_5",
+"question_en": "What was the theme of Super Bowl 50?",
+"question": "Super Bowl 50 oda theme enna?",
+"reference_answer": ""golden anniversary""
+},
+{
+"id": "tanglish_6",
+"question_en": "What day was the game played on?",
+"question": "Super Bowl 50 endha day nadandhuchu?",
+"reference_answer": "February 7, 2016"
+},
+{
+"id": "tanglish_7",
+"question_en": "What is the AFC short for?",
+"question": "AFC oda full form enna?",
+"reference_answer": "American Football Conference"
+},
+{
+"id": "tanglish_8",
+"question_en": "What was the theme of Super Bowl 50?",
+"question": "Super Bowl 50 oda theme enna?",
+"reference_answer": ""golden anniversary""
+},
+{
+"id": "tanglish_9",
+"question_en": "What does AFC stand for?",
+"question": "AFC oda meaning enna?",
+"reference_answer": "American Football Conference"
+},
+{
+"id": "tanglish_10",
+"question_en": "What day was the Super Bowl played on?",
+"question": "Super Bowl endha day nadandhuchu?",
+"reference_answer": "February 7, 2016"
+},
+{
+"id": "tanglish_11",
+"question_en": "Who won Super Bowl 50?",
+"question": "Super Bowl 50 ah win pannadhu yaaru?",
+"reference_answer": "Denver Broncos"
+},
+{
+"id": "tanglish_12",
+"question_en": "What venue did Super Bowl 50 take place in?",
+"question": "Super Bowl 50 endha venue la nadandhuchu?",
+"reference_answer": "Levi's Stadium"
+},
+{
+"id": "tanglish_13",
+"question_en": "What city did Super Bowl 50 take place in?",
+"question": "Super Bowl 50 endha city la nadandhuchu?",
+"reference_answer": "Santa Clara"
+},
+{
+"id": "tanglish_14",
+"question_en": "If Roman numerals were used, what would Super Bowl 50 have been called?",
+"question": "Roman numerals use pannirundha, Super Bowl 50 ah epdi koopitrupanga?",
+"reference_answer": "Super Bowl L"
+},
+{
+"id": "tanglish_15",
+"question_en": "Super Bowl 50 decided the NFL champion for what season?",
+"question": "Super Bowl 50 endha season kanda NFL champion ah decide pannuchu?",
+"reference_answer": "2015"
+},
+{
+"id": "tanglish_16",
+"question_en": "What year did the Denver Broncos secure a Super Bowl title for the third time?",
+"question": "Denver Broncos endha year 3rd time Super Bowl title ah win pannanga?",
+"reference_answer": "2015"
+},
+{
+"id": "tanglish_17",
+"question_en": "What city did Super Bowl 50 take place in?",
+"question": "Super Bowl 50 endha city la nadandhuchu?",
+"reference_answer": "Santa Clara"
+},
+{
+"id": "tanglish_18",
+"question_en": "What stadium did Super Bowl 50 take place in?",
+"question": "Super Bowl 50 endha stadium la nadandhuchu?",
+"reference_answer": "Levi's Stadium"
+},
+{
+"id": "tanglish_19",
+"question_en": "What was the final score of Super Bowl 50? ",
+"question": "Super Bowl 50 oda final score enna?",
+"reference_answer": "24–10"
+},
+{
+"id": "tanglish_20",
+"question_en": "What month, day and year did Super Bowl 50 take place? ",
+"question": "Super Bowl 50 endha month, day and year la nadandhuchu?",
+"reference_answer": "February 7, 2016"
+},
+{
+"id": "tanglish_21",
+"question_en": "What year was Super Bowl 50?",
+"question": "Super Bowl 50 endha year la nadandhuchu?",
+"reference_answer": "2015"
+},
+{
+"id": "tanglish_22",
+"question_en": "What team was the AFC champion?",
+"question": "AFC champion aana team edhu?",
+"reference_answer": "Denver Broncos"
+},
+{
+"id": "tanglish_23",
+"question_en": "What team was the NFC champion?",
+"question": "NFC champion aana team edhu?",
+"reference_answer": "Carolina Panthers"
+},
+{
+"id": "tanglish_24",
+"question_en": "Who won Super Bowl 50?",
+"question": "Super Bowl 50 ah win pannadhu yaaru?",
+"reference_answer": "Denver Broncos"
+},
+{
+"id": "tanglish_25",
+"question_en": "Super Bowl 50 determined the NFL champion for what season?",
+"question": "Super Bowl 50 endha season kanda NFL champion ah determine pannuchu?",
+"reference_answer": "2015"
+},
+{
+"id": "tanglish_26",
+"question_en": "Which team won Super Bowl 50.",
+"question": "Endha team Super Bowl 50 ah win pannanga?",
+"reference_answer": "Denver Broncos"
+},
+{
+"id": "tanglish_27",
+"question_en": "Where was Super Bowl 50 held?",
+"question": "Super Bowl 50 enga nadandhuchu?",
+"reference_answer": "Santa Clara, California."
+},
+{
+"id": "tanglish_28",
+"question_en": "The name of the NFL championship game is?",
+"question": "NFL championship game oda name enna?",
+"reference_answer": "Super Bowl"
+},
+{
+"id": "tanglish_29",
+"question_en": "What 2015 NFL team one the AFC playoff?",
+"question": "2015 la AFC playoff ah win panna NFL team edhu?",
+"reference_answer": "Denver Broncos"
+},
+{
+"id": "tanglish_30",
+"question_en": "Which Carolina Panthers player was named Most Valuable Player?",
+"question": "Endha Carolina Panthers player Most Valuable Player ah select aananga?",
+"reference_answer": "Cam Newton"
+},
+{
+"id": "tanglish_31",
+"question_en": "How many appearances have the Denver Broncos made in the Super Bowl?",
+"question": "Denver Broncos Super Bowl la ethana times appear aagirukanga?",
+"reference_answer": "8"
+},
+{
+"id": "tanglish_32",
+"question_en": "What year was the Carolina Panthers franchise founded?",
+"question": "Carolina Panthers franchise endha year start pannanga?",
+"reference_answer": "1995"
+},
+{
+"id": "tanglish_33",
+"question_en": "What team did the Panthers defeat?",
+"question": "Panthers endha team ah defeat pannanga?",
+"reference_answer": "Arizona Cardinals"
+},
+{
+"id": "tanglish_34",
+"question_en": "Who did the Broncos prevent from going to the Super Bowl?",
+"question": "Super Bowl ku poradhula irundhu Broncos endha team ah prevent pannanga?",
+"reference_answer": "New England Patriots"
+},
+{
+"id": "tanglish_35",
+"question_en": "Who did the Panthers beat in the NFC Championship Game?",
+"question": "NFC Championship Game la Panthers yaara beat pannanga?",
+"reference_answer": "Arizona Cardinals"
+},
+{
+"id": "tanglish_36",
+"question_en": "Who lost to the Broncos in the AFC Championship?",
+"question": "AFC Championship la Broncos kitta thothadhu yaaru?",
+"reference_answer": "New England Patriots"
+},
+{
+"id": "tanglish_37",
+"question_en": "Who were the defending Super Bowl champions?",
+"question": "Defending Super Bowl champions ah yaaru irundhanga?",
+"reference_answer": "New England Patriots"
+},
+{
+"id": "tanglish_38",
+"question_en": "How many teams have been in the Super Bowl eight times?",
+"question": "Super Bowl ku 8 times pona teams ethana?",
+"reference_answer": "four"
+},
+{
+"id": "tanglish_39",
+"question_en": "Who was this season's NFL MVP?",
+"question": "Indha season oda NFL MVP yaaru?",
+"reference_answer": "Cam Newton"
+},
+{
+"id": "tanglish_40",
+"question_en": "What was the win/loss ratio in 2015 for the Carolina Panthers during their regular season?",
+"question": "2015 regular season la Carolina Panthers oda win/loss ratio enna?",
+"reference_answer": "15–1"
+},
+{
+"id": "tanglish_41",
+"question_en": "Which Carolina Panthers team member was picked as the team's MVP in 2015? ",
+"question": "2015 la endha Carolina Panthers team member ah team oda MVP ah pick pannanga?",
+"reference_answer": "Cam Newton"
+},
+{
+"id": "tanglish_42",
+"question_en": "What were the win/loss game stats for the Denver Bronco's regular season in 2015?",
+"question": "2015 la Denver Bronco oda regular season win/loss game stats enna?",
+"reference_answer": "12–4"
+},
+{
+"id": "tanglish_43",
+"question_en": "How many teams have played in the Super Bowl eight times?",
+"question": "Super Bowl la 8 times play panna teams ethana?",
+"reference_answer": "4"
+},
+{
+"id": "tanglish_44",
+"question_en": "Which team did not get a chance to defend their Super Bowl XLIX win in Super Bowl 50?",
+"question": "Super Bowl 50 la avangoda Super Bowl XLIX win ah defend panna endha team ku chance kedaikala?",
+"reference_answer": "New England Patriots"
+},
+{
+"id": "tanglish_45",
+"question_en": "Who is the quarterback for the Panthers?",
+"question": "Panthers oda quarterback yaaru?",
+"reference_answer": "Cam Newton"
+},
+{
+"id": "tanglish_46",
+"question_en": "Who did Carolina beat in the NFC championship game?",
+"question": "NFC championship game la Carolina yaara beat pannanga?",
+"reference_answer": "Arizona Cardinals"
+},
+{
+"id": "tanglish_47",
+"question_en": "How many times have the Panthers been in the Super Bowl?",
+"question": "Panthers ethana times Super Bowl la irundhurkanga?",
+"reference_answer": "2"
+},
+{
+"id": "tanglish_48",
+"question_en": "Who did Denver beat in the AFC championship?",
+"question": "AFC championship la Denver yaara beat pannanga?",
+"reference_answer": "New England Patriots"
+},
+{
+"id": "tanglish_49",
+"question_en": "Who was the Most Valuable Player for the 2015 NFL season?",
+"question": "2015 NFL season oda Most Valuable Player yaaru?",
+"reference_answer": "Cam Newton"
+},
+{
+"id": "tanglish_50",
+"question_en": "Who did Denver beat in the 2015 AFC Championship game?",
+"question": "2015 AFC Championship game la Denver yaara beat pannanga?",
+"reference_answer": "New England Patriots"
+},
+{
+"id": "tanglish_51",
+"question_en": "Who did the Carolina Panthers beat in the 2015 NFC Championship game?",
+"question": "2015 NFC Championship game la Carolina Panthers yaara beat pannanga?",
+"reference_answer": "Arizona Cardinals"
+},
+{
+"id": "tanglish_52",
+"question_en": "Who was the 2015 NFL MVP?",
+"question": "2015 NFL MVP yaaru?",
+"reference_answer": "Cam Newton"
+},
+{
+"id": "tanglish_53",
+"question_en": "Who did the Panthers beat to become the NFC champs?",
+"question": "NFC champs aagurathuku Panthers yaara beat pannanga?",
+"reference_answer": "Arizona Cardinals"
+},
+{
+"id": "tanglish_54",
+"question_en": "What year did the Carolina Panthers form?",
+"question": "Carolina Panthers endha year form aachu?",
+"reference_answer": "1995."
+},
+{
+"id": "tanglish_55",
+"question_en": "Who was the Super Bowl 50 MVP?",
+"question": "Super Bowl 50 MVP yaaru?",
+"reference_answer": "Von Miller"
+},
+{
+"id": "tanglish_56",
+"question_en": "How many fumbles did Von Miller force in Super Bowl 50?",
+"question": "Super Bowl 50 la Von Miller ethana fumbles ah force pannaru?",
+"reference_answer": "2"
+},
+{
+"id": "tanglish_57",
+"question_en": "Which team held the scoring lead throughout the entire game?",
+"question": "Entire Super Bowl 50 la endha team scoring lead ah vachirundhanga?",
+"reference_answer": "Broncos"
+},
+{
+"id": "tanglish_58",
+"question_en": "Which Denver linebacker was named Super Bowl MVP?",
+"question": "Endha Denver linebacker ah Super Bowl MVP ah name pannanga?",
+"reference_answer": "linebacker Von Miller"
+},
+{
+"id": "tanglish_59",
+"question_en": "How many solo tackles did Von Miller make at Super Bowl 50?",
+"question": "Super Bowl 50 la Von Miller ethana solo tackles pannaru?",
+"reference_answer": "five solo tackles"
+},
+{
+"id": "tanglish_60",
+"question_en": "Who was limited by Denver's defense?",
+"question": "Denver oda defense aala yaaru limit pannapattanga?",
+"reference_answer": "Newton was limited by Denver's defense"
+},
+{
+"id": "tanglish_61",
+"question_en": "How many times was Cam Newton sacked?",
+"question": "Cam Newton ethana times sack aanaaru?",
+"reference_answer": "seven"
+},
+{
+"id": "tanglish_62",
+"question_en": "Who won the Super Bowl MVP?",
+"question": "Super Bowl MVP ah win pannadhu yaaru?",
+"reference_answer": "Von Miller"
+},
+{
+"id": "tanglish_63",
+"question_en": "How many turnovers did Cam Newton have?",
+"question": "Cam Newton kitta ethana turnovers irundhuchu?",
+"reference_answer": "three"
+},
+{
+"id": "tanglish_64",
+"question_en": "How many fumbles did Von Miller force?",
+"question": "Von Miller ethana fumbles ah force pannaru?",
+"reference_answer": "two"
+},
+{
+"id": "tanglish_65",
+"question_en": "Who was given the esteemed status of MVP for Super Bowl 50?",
+"question": "Super Bowl 50 oda esteemed MVP status yaaruku kudukapattadhu?",
+"reference_answer": "Von Miller"
+},
+{
+"id": "tanglish_66",
+"question_en": "What position does Von Miller play for the Denver Broncos?",
+"question": "Denver Broncos ku Von Miller endha position la play pannaru?",
+"reference_answer": "linebacker"
+},
+{
+"id": "tanglish_67",
+"question_en": "What was the number of solo tackles that Von Miller had in Super Bowl 50?",
+"question": "Super Bowl 50 la Von Miller panna solo tackles oda count enna?",
+"reference_answer": "5"
+},
+{
+"id": "tanglish_68",
+"question_en": "How many forced fumbles did Von Miller have during the Super Bowl 50 game?",
+"question": "Super Bowl 50 game appo Von Miller ethana forced fumbles pannaru?",
+"reference_answer": "2"
+},
+{
+"id": "tanglish_69",
+"question_en": "Who won the MVP for the Super Bowl?",
+"question": "Super Bowl oda MVP ah win pannadhu yaaru?",
+"reference_answer": "Von Miller"
+},
+{
+"id": "tanglish_70",
+"question_en": "How many tackles did Von Miller get during the game?",
+"question": "Super Bowl 50 appo Von Miller ku ethana tackles kedaichithu?",
+"reference_answer": "5"
+},
+{
+"id": "tanglish_71",
+"question_en": "How many times was Cam Newton sacked in Super Bowl 50?",
+"question": "Super Bowl 50 la Cam Newton ethana times sack aanaaru?",
+"reference_answer": "seven"
+},
+{
+"id": "tanglish_72",
+"question_en": "How many times did the Denver defense force Newton into turnovers?",
+"question": "Denver defense Newton ah ethana times turnovers ku force pannanga?",
+"reference_answer": "three"
+},
+{
+"id": "tanglish_73",
+"question_en": "Which Newton turnover resulted in seven points for Denver?",
+"question": "Endha Newton turnover Denver ku 7 points kedaika vechithu?",
+"reference_answer": "a fumble"
+},
+{
+"id": "tanglish_74",
+"question_en": "Who was the Most Valuable Player of Super Bowl 50?",
+"question": "Super Bowl 50 oda Most Valuable Player yaaru?",
+"reference_answer": "Von Miller"
+},
+{
+"id": "tanglish_75",
+"question_en": "What position does Von Miller play?",
+"question": "Von Miller endha position la play panraaru?",
+"reference_answer": "linebacker"
+},
+{
+"id": "tanglish_76",
+"question_en": "How many times was the Panthers' quarterback sacked?",
+"question": "Panthers oda quarterback ethana times sack aanaaru?",
+"reference_answer": "seven"
+},
+{
+"id": "tanglish_77",
+"question_en": "How many times did the Broncos cause turnovers in the game?",
+"question": "Super Bowl 50 la Broncos ethana times turnovers ah cause pannanga?",
+"reference_answer": "three"
+},
+{
+"id": "tanglish_78",
+"question_en": "What Denver player caused two fumbles for the Panthers?",
+"question": "Endha Denver player Panthers ku 2 fumbles ah cause pannaru?",
+"reference_answer": "Von Miller"
+},
+{
+"id": "tanglish_79",
+"question_en": "How many tackles did Von Miller accomlish by himself in the game?",
+"question": "Super Bowl 50 la Von Miller avarave ethana tackles pannaru?",
+"reference_answer": "five"
+},
+{
+"id": "tanglish_80",
+"question_en": "Which network broadcasted Super Bowl 50 in the U.S.?",
+"question": "US la Super Bowl 50 ah endha network broadcast pannanga?",
+"reference_answer": "CBS"
+},
+{
+"id": "tanglish_81",
+"question_en": "What was the average cost for a 30 second commercial during Super Bowl 50?",
+"question": "Super Bowl 50 appo 30 second commercial oda average cost enna?",
+"reference_answer": "$5 million"
+},
+{
+"id": "tanglish_82",
+"question_en": "Which group headlined the Super Bowl 50 halftime show?",
+"question": "Super Bowl 50 halftime show ah endha group headline pannanga?",
+"reference_answer": "Coldplay"
+},
+{
+"id": "tanglish_83",
+"question_en": "Which performers joined the headliner during the Super Bowl 50 halftime show?",
+"question": "Super Bowl 50 halftime show appo headliner kooda endha performers join pannanga?",
+"reference_answer": "Beyoncé and Bruno Mars"
+},
+{
+"id": "tanglish_84",
+"question_en": "At which Super Bowl did Beyonce headline the halftime show?",
+"question": "Endha Super Bowl halftime show ah Beyonce headline pannanga?",
+"reference_answer": "Super Bowl XLVII"
+},
+{
+"id": "tanglish_85",
+"question_en": "Who was the broadcaster for Super Bowl 50 in the United States?",
+"question": "US la Super Bowl 50 oda broadcaster yaaru?",
+"reference_answer": "CBS"
+},
+{
+"id": "tanglish_86",
+"question_en": "What was the average cost of a 30-second commercial?",
+"question": "30-second commercial oda average cost enna?",
+"reference_answer": "$5 million"
+},
+{
+"id": "tanglish_87",
+"question_en": "What halftime performer previously headlined Super Bowl XLVII?",
+"question": "Munnadi Super Bowl XLVII ah endha halftime performer headline pannanga?",
+"reference_answer": "Beyoncé"
+},
+{
+"id": "tanglish_88",
+"question_en": "What halftime performer previously headlined Super Bowl XLVIII?",
+"question": "Munnadi Super Bowl XLVIII ah endha halftime performer headline pannanga?",
+"reference_answer": "Bruno Mars"
+},
+{
+"id": "tanglish_89",
+"question_en": "Who was the main performer at this year's halftime show?",
+"question": "Indha year oda halftime show la main performer yaaru?",
+"reference_answer": "Coldplay"
+},
+{
+"id": "tanglish_90",
+"question_en": "Which network broadcasted the 50th Super Bowl game? ",
+"question": "50th Super Bowl ah endha network broadcast pannanga?",
+"reference_answer": "CBS"
+},
+{
+"id": "tanglish_91",
+"question_en": "What was the average cost for a TV ad lasting 30 seconds during Super Bowl 50?",
+"question": "Super Bowl 50 appo 30 seconds vara TV ad oda average cost enna?",
+"reference_answer": "$5 million"
+},
+{
+"id": "tanglish_92",
+"question_en": "Who was the male singer who performed as a special guest during Super Bowl 50?",
+"question": "Super Bowl 50 appo special guest ah perform panna male singer yaaru?",
+"reference_answer": "Bruno Mars"
+},
+{
+"id": "tanglish_93",
+"question_en": "What ranking does the Super Bowl 50 halftime show have on the list of most watched TV broadcasts?",
+"question": "Most watched TV broadcasts list la Super Bowl 50 halftime show endha rank la irukku?",
+"reference_answer": "third"
+},
+{
+"id": "tanglish_94",
+"question_en": "What station aired the Super Bowl?",
+"question": "Endha station Super Bowl ah air pannanga?",
+"reference_answer": "CBS"
+},
+{
+"id": "tanglish_95",
+"question_en": "How much money did a 1/2 minute commercial cost?",
+"question": "1/2 minute commercial ku evlo money cost aachu?",
+"reference_answer": "$5 million"
+},
+{
+"id": "tanglish_96",
+"question_en": "What band headlined half-time during Super Bowl 50?",
+"question": "Super Bowl 50 oda half-time ah endha band headline pannanga?",
+"reference_answer": "Coldplay"
+},
+{
+"id": "tanglish_97",
+"question_en": "What two artists came out with Coldplay during the half-time show?",
+"question": "Half-time show appo Coldplay kooda endha 2 artists veliya vandhanga?",
+"reference_answer": "Beyoncé and Bruno Mars"
+},
+{
+"id": "tanglish_98",
+"question_en": "Who broadcast the Super Bowl on TV?",
+"question": "TV la Super Bowl ah broadcast pannadhu yaaru?",
+"reference_answer": "CBS"
+},
+{
+"id": "tanglish_99",
+"question_en": "Who headlined the halftime show for Super Bowl 50?",
+"question": "Super Bowl 50 oda halftime show ah headline pannadhu yaaru?",
+"reference_answer": "Coldplay"
+},
+{
+"id": "tanglish_100",
+"question_en": "Who were special guests for the Super Bowl halftime show?",
+"question": "Super Bowl halftime show ku special guests ah yaaru irundhanga?",
+"reference_answer": "Beyoncé and Bruno Mars"
+},
+{
+"id": "tanglish_101",
+"question_en": "Which Super Bowl halftime show did Beyoncé headline?",
+"question": "Endha Super Bowl halftime show ah Beyoncé headline pannanga?",
+"reference_answer": "Super Bowl XLVII"
+},
+{
+"id": "tanglish_102",
+"question_en": "What was the cost for a half minute ad?",
+"question": "Half minute ad oda cost enna?",
+"reference_answer": "$5 million"
+},
+{
+"id": "tanglish_103",
+"question_en": "Who lead the Super Bowl 50 halftime performance?",
+"question": "Super Bowl 50 halftime performance ah lead pannadhu yaaru?",
+"reference_answer": "Coldplay"
+},
+{
+"id": "tanglish_104",
+"question_en": "What other two famous performers were part of the Super Bowl 50 halftime?",
+"question": "Super Bowl 50 halftime la vera endha 2 famous performers part ah irundhanga?",
+"reference_answer": "Beyoncé and Bruno Mars"
+},
+{
+"id": "tanglish_105",
+"question_en": "What performer lead the Super Bowl XLVIII halftime show?",
+"question": "Super Bowl XLVIII halftime show ah endha performer lead pannanga?",
+"reference_answer": "Bruno Mars"
+},
+{
+"id": "tanglish_106",
+"question_en": "Who was the NFL Commissioner in early 2012?",
+"question": "Early 2012 la NFL Commissioner ah yaaru irundhanga?",
+"reference_answer": "Roger Goodell"
+},
+{
+"id": "tanglish_107",
+"question_en": "Which Super Bowl did Roger Goodell speak about?",
+"question": "Roger Goodell endha Super Bowl ah pathi pesinaaru?",
+"reference_answer": "the 50th Super Bowl"
+},
+{
+"id": "tanglish_108",
+"question_en": "In what year did Roger Goodell call Super Bowl 50 'an important game for us as a league'?",
+"question": "Endha year la Roger Goodell Super Bowl 50 ah 'an important game for us as a league' nu sonnaru?",
+"reference_answer": "2012"
+},
+{
+"id": "tanglish_109",
+"question_en": "Who is the Commissioner of the National Football League?",
+"question": "National Football League oda Commissioner yaaru?",
+"reference_answer": "Roger Goodell"
+},
+{
+"id": "tanglish_110",
+"question_en": "When did he make the quoted remarks about Super Bowl 50?",
+"question": "Super Bowl 50 pathina remarks ah avar eppo sonnaru?",
+"reference_answer": "early 2012"
+},
+{
+"id": "tanglish_111",
+"question_en": "Who was the commissioner of the NFL in 2012? ",
+"question": "2012 la NFL oda commissioner yaaru?",
+"reference_answer": "Roger Goodell"
+},
+{
+"id": "tanglish_112",
+"question_en": "Who if the commissioner of the NFL?",
+"question": "NFL oda commissioner yaaru?",
+"reference_answer": "Roger Goodell"
+},
+{
+"id": "tanglish_113",
+"question_en": "Who is the commissioner of the NFL?",
+"question": "NFL oda commissioner yaaru?",
+"reference_answer": "Roger Goodell"
+},
+{
+"id": "tanglish_114",
+"question_en": "In early 2012, Goodell said that Super Bowl 50 would be what?",
+"question": "Early 2012 la, Super Bowl 50 epdi irukum nu Goodell sonnaru?",
+"reference_answer": "spectacular"
+},
+{
+"id": "tanglish_115",
+"question_en": "What one word did the NFL commissioner use to describe what Super Bowl 50 was intended to be?",
+"question": "Super Bowl 50 epdi irukum nu describe panna NFL commissioner endha one word ah use pannaru?",
+"reference_answer": "spectacular"
+},
+{
+"id": "tanglish_116",
+"question_en": "What year did Roger Goodell announce that Super Bowl 50 would be "important"?",
+"question": "Super Bowl 50 "important" ah irukum nu Roger Goodell endha year announce pannaru?",
+"reference_answer": "2012"
+},
+{
+"id": "tanglish_117",
+"question_en": "Which Louisiana venue was one of three considered for Super Bowl 50?",
+"question": "Super Bowl 50 ku consider panna 3 venues la endha Louisiana venue onnu?",
+"reference_answer": "New Orleans' Mercedes-Benz Superdome"
+},
+{
+"id": "tanglish_118",
+"question_en": "Which Florida venue was one of three considered for Super Bowl 50?",
+"question": "Super Bowl 50 ku consider panna 3 venues la endha Florida venue onnu?",
+"reference_answer": "Miami's Sun Life Stadium"
+},
+{
+"id": "tanglish_119",
+"question_en": "Which California venue was one of three considered for Super Bowl 50?",
+"question": "Super Bowl 50 ku consider panna 3 venues la endha California venue onnu?",
+"reference_answer": "San Francisco Bay Area's Levi's Stadium"
+},
+{
+"id": "tanglish_120",
+"question_en": "What venue in Miami was a candidate for the site of Super Bowl 50?",
+"question": "Miami la ulla endha venue Super Bowl 50 site ku oru candidate ah irundhuchu?",
+"reference_answer": "Sun Life Stadium"
+},
+{
+"id": "tanglish_121",
+"question_en": "What site is located in the San Francisco Bay Area?",
+"question": "San Francisco Bay Area la endha site locate aagi irukku?",
+"reference_answer": "Levi's Stadium"
+},
+{
+"id": "tanglish_122",
+"question_en": "What is the name of San Francisco's stadium when looked at as a possibility for Super Bowl 50?",
+"question": "Super Bowl 50 kaga consider pannappo, San Francisco oda stadium name enna?",
+"reference_answer": "Levi's Stadium"
+},
+{
+"id": "tanglish_123",
+"question_en": "What was the name of New Orleans' superdome at the time that Super Bowl 50 took place?",
+"question": "Super Bowl 50 nadandha time la New Orleans oda superdome name enna?",
+"reference_answer": "Mercedes-Benz Superdome"
+},
+{
+"id": "tanglish_124",
+"question_en": "What was the given name of Miami's stadium at the time of Super Bowl 50?",
+"question": "Super Bowl 50 nadandha time la Miami stadium oda name enna?",
+"reference_answer": "Sun Life Stadium"
+},
+{
+"id": "tanglish_125",
+"question_en": "What three stadiums did the NFL decide between for the game?",
+"question": "Super Bowl 50 ku endha 3 stadiums idaiyila NFL decide pannanga?",
+"reference_answer": "New Orleans' Mercedes-Benz Superdome, Miami's Sun Life Stadium, and the San Francisco Bay Area's Levi's Stadium"
+},
+{
+"id": "tanglish_126",
+"question_en": "How many sites did the NFL narrow down Super Bowl 50's location to?",
+"question": "NFL Super Bowl 50 oda location ah ethana sites ku narrow down pannanga?",
+"reference_answer": "three"
+},
+{
+"id": "tanglish_127",
+"question_en": "One of the sites, Merceds-Benz Superdome, is located where?",
+"question": "Sites la onnana Merceds-Benz Superdome enga locate aagi irukku?",
+"reference_answer": "New Orleans"
+},
+{
+"id": "tanglish_128",
+"question_en": "What is the name of the stadium in Miami that was considered?",
+"question": "Consider panna Miami la ulla stadium oda name enna?",
+"reference_answer": "Sun Life Stadium"
+},
+{
+"id": "tanglish_129",
+"question_en": "What was the third city that was considered?",
+"question": "Consider panna 3rd city edhu?",
+"reference_answer": "San Francisco"
+},
+{
+"id": "tanglish_130",
+"question_en": "What is the name of the stadium in San Francisco Bay Area?",
+"question": "San Francisco Bay Area la ulla stadium oda name enna?",
+"reference_answer": "Levi's Stadium."
+},
+{
+"id": "tanglish_131",
+"question_en": "What Florida stadium was considered for Super Bowl 50?",
+"question": "Super Bowl 50 ku endha Florida stadium ah consider pannanga?",
+"reference_answer": "Sun Life Stadium"
+},
+{
+"id": "tanglish_132",
+"question_en": "What New Orleans stadium was considered for Super Bowl 50?",
+"question": "Super Bowl 50 ku endha New Orleans stadium ah consider pannanga?",
+"reference_answer": "Mercedes-Benz Superdome"
+},
+{
+"id": "tanglish_133",
+"question_en": "What is the name of the stadium where Super Bowl 50 was played?",
+"question": "Super Bowl 50 play panna stadium oda name enna?",
+"reference_answer": "Levi's Stadium."
+},
+{
+"id": "tanglish_134",
+"question_en": "When were the two finalists for hosting Super Bowl 50 announced?",
+"question": "Super Bowl 50 ah host panna 2 finalists ah eppo announce pannanga?",
+"reference_answer": "October 16, 2012"
+},
+{
+"id": "tanglish_135",
+"question_en": "How many times has the South Florida/Miami area hosted the Super Bowl?",
+"question": "South Florida/Miami area ethana times Super Bowl ah host pannirukanga?",
+"reference_answer": "10"
+},
+{
+"id": "tanglish_136",
+"question_en": "What was the most recent Super Bowl hosted in the South Florida/Miami area?",
+"question": "South Florida/Miami area la host panna most recent Super Bowl edhu?",
+"reference_answer": "Super Bowl XLIV"
+},
+{
+"id": "tanglish_137",
+"question_en": "When was the most recent Super Bowl hosted in the South Florida/Miami area?",
+"question": "South Florida/Miami area la most recent Super Bowl ah eppo host pannanga?",
+"reference_answer": "2010"
+},
+{
+"id": "tanglish_138",
+"question_en": "When did the San Francisco Bay area last host the Super Bowl?",
+"question": "San Francisco Bay area last ah eppo Super Bowl ah host pannanga?",
+"reference_answer": "1985"
+},
+{
+"id": "tanglish_139",
+"question_en": "What was the other finalist besides Levi's Stadium?",
+"question": "Levi's Stadium ah thavira innoru finalist edhu?",
+"reference_answer": "Sun Life Stadium"
+},
+{
+"id": "tanglish_140",
+"question_en": "When were the finalists announced?",
+"question": "Finalists ah eppo announce pannanga?",
+"reference_answer": "October 16, 2012"
+},
+{
+"id": "tanglish_141",
+"question_en": "In what venue did Super Bowl XIX take place?",
+"question": "Super Bowl XIX endha venue la nadandhuchu?",
+"reference_answer": "Stanford Stadium"
+},
+{
+"id": "tanglish_142",
+"question_en": "On what date did the Florida legislature decide against the plan to renovate the Miami stadium?",
+"question": "Miami stadium ah renovate panra plan ku against ah Florida legislature endha date la decide pannanga?",
+"reference_answer": "May 3, 2013"
+},
+{
+"id": "tanglish_143",
+"question_en": "In what year was the Super Bowl last held in the Miami/South Florida area?",
+"question": "Miami/South Florida area la Super Bowl last ah endha year nadandhuchu?",
+"reference_answer": "2010"
+},
+{
+"id": "tanglish_144",
+"question_en": "How many times has a Super Bowl taken place at Miami's Sun Life Stadium?",
+"question": "Miami oda Sun Life Stadium la Super Bowl ethana times nadandhirukku?",
+"reference_answer": "two"
+},
+{
+"id": "tanglish_145",
+"question_en": "What was the last Super Bowl that took place at Sun Life Stadium in Miami? ",
+"question": "Miami la ulla Sun Life Stadium la nadandha last Super Bowl edhu?",
+"reference_answer": "Super Bowl XLIV"
+},
+{
+"id": "tanglish_146",
+"question_en": "In 2012, how many stadiums were named as finalists for hosting Super Bowl 50 before the final stadium was chosen?",
+"question": "2012 la, final stadium ah choose panrathuku munnadi ethana stadiums ah Super Bowl 50 ku finalists ah name pannanga?",
+"reference_answer": "two"
+},
+{
+"id": "tanglish_147",
+"question_en": "What was the entity that stepped in and caused Miami's Sun Life Stadium to no longer be in the running to host Super Bowl 50?",
+"question": "Miami oda Sun Life Stadium Super Bowl 50 ah host panrathula irundhu veliya poga kaaranama irundha entity edhu?",
+"reference_answer": "Florida legislature"
+},
+{
+"id": "tanglish_148",
+"question_en": "Prior to this consideration, when did San Francisco last host a Super Bowl?",
+"question": "Idha consider panrathuku munnadi, San Francisco last ah eppo Super Bowl ah host pannanga?",
+"reference_answer": "1985"
+},
+{
+"id": "tanglish_149",
+"question_en": "What other city has hosted the Super Bowl ten times?",
+"question": "Vera endha city Super Bowl ah 10 times host pannirukanga?",
+"reference_answer": "New Orleans"
+},
+{
+"id": "tanglish_150",
+"question_en": "What date were the top two stadium choices for Super Bowl 50 announced?",
+"question": "Super Bowl 50 ku top 2 stadium choices ah endha date la announce pannanga?",
+"reference_answer": "October 16, 2012"
+},
+{
+"id": "tanglish_151",
+"question_en": "How many times prios has the Sun Life Stadium had Super Bowls?",
+"question": "Sun Life Stadium ku munnadi ethana times Super Bowls nadandhirukku?",
+"reference_answer": "10."
+},
+{
+"id": "tanglish_152",
+"question_en": "What city is tied with Miami for hosting the Super Bowl?",
+"question": "Super Bowl ah host panrathula Miami kooda tie aana city edhu?",
+"reference_answer": "New Orleans"
+},
+{
+"id": "tanglish_153",
+"question_en": "When was the last time San Francisco hosted a Super Bowl?",
+"question": "San Francisco last ah eppo Super Bowl ah host pannanga?",
+"reference_answer": "1985"
+},
+{
+"id": "tanglish_154",
+"question_en": "Who decided not to approve paying for renovations at Sun Life Stadium that the league wanted for them to do to host Super Bowl 50?",
+"question": "Super Bowl 50 ah host panna league keta Sun Life Stadium renovations ku pay panna koodathu nu yaaru decide pannanga?",
+"reference_answer": "Florida legislature"
+},
+{
+"id": "tanglish_155",
+"question_en": "When was Levi's Stadium awarded the right to host Super Bowl 50?",
+"question": "Super Bowl 50 ah host panra right Levi's Stadium ku eppo kedaichithu?",
+"reference_answer": "May 21, 2013"
+},
+{
+"id": "tanglish_156",
+"question_en": "Who voted on the venue for Super Bowl 50?",
+"question": "Super Bowl 50 venue ku yaaru vote pannanga?",
+"reference_answer": "NFL owners"
+},
+{
+"id": "tanglish_157",
+"question_en": "When did Lev's Stadium open?",
+"question": "Levi's Stadium eppo open aachu?",
+"reference_answer": "2014"
+},
+{
+"id": "tanglish_158",
+"question_en": "How much did it cost to build Levi's Stadium?",
+"question": "Levi's Stadium ah build panna evlo cost aachu?",
+"reference_answer": "$1.2 billion"
+},
+{
+"id": "tanglish_159",
+"question_en": "What California city last hosted the Super Bowl?",
+"question": "Endha California city last ah Super Bowl ah host pannanga?",
+"reference_answer": "San Diego"
+},
+{
+"id": "tanglish_160",
+"question_en": "Where did the spring meetings of the NFL owners take place?",
+"question": "NFL owners oda spring meetings enga nadandhuchu?",
+"reference_answer": "Boston"
+},
+{
+"id": "tanglish_161",
+"question_en": "On what date was Super Bowl 50 given to Levi's Stadium?",
+"question": "Super Bowl 50 endha date la Levi's Stadium ku kudukapattadhu?",
+"reference_answer": "May 21, 2013"
+},
+{
+"id": "tanglish_162",
+"question_en": "How much did it cost to build Levi's Stadium?",
+"question": "Levi's Stadium ah build panna evlo cost aachu?",
+"reference_answer": "$1.2 billion"
+},
+{
+"id": "tanglish_163",
+"question_en": "Prior to Super Bowl 50, what was the last Super Bowl in California?",
+"question": "Super Bowl 50 ku munnadi, California la nadandha last Super Bowl edhu?",
+"reference_answer": "Super Bowl XXXVII"
+},
+{
+"id": "tanglish_164",
+"question_en": "In what city did the last Super Bowl in California occur?",
+"question": "California la last Super Bowl endha city la nadandhuchu?",
+"reference_answer": "San Diego"
+},
+{
+"id": "tanglish_165",
+"question_en": "What year did Levi's Stadium become fully approved to host Super Bowl 50?",
+"question": "Super Bowl 50 ah host panna Levi's Stadium endha year fully approve aachu?",
+"reference_answer": "2013"
+},
+{
+"id": "tanglish_166",
+"question_en": "When did Levi's stadium open to the public? ",
+"question": "Levi's stadium public ku eppo open aachu?",
+"reference_answer": "2014"
+},
+{
+"id": "tanglish_167",
+"question_en": "How much did it cost to build the stadium where Super Bowl 50 was played?",
+"question": "Super Bowl 50 play panna stadium ah build panna evlo cost aachu?",
+"reference_answer": "$1.2 billion"
+},
+{
+"id": "tanglish_168",
+"question_en": "What year did a Super Bowl play in the bay area around San Francisco, prior to Super Bowl 50?",
+"question": "Super Bowl 50 ku munnadi, San Francisco suthi ulla bay area la endha year Super Bowl play pannanga?",
+"reference_answer": "1985"
+},
+{
+"id": "tanglish_169",
+"question_en": "Which Super Bowl was hosted in San Diego in 2003? ",
+"question": "2003 la San Diego la endha Super Bowl ah host pannanga?",
+"reference_answer": "Super Bowl XXXVII"
+},
+{
+"id": "tanglish_170",
+"question_en": "When was San Francisco voted to be the location for Super Bowl 50?",
+"question": "Super Bowl 50 oda location ah San Francisco ku eppo vote pannanga?",
+"reference_answer": "May 21, 2013"
+},
+{
+"id": "tanglish_171",
+"question_en": "When did Levi's Stadium open?",
+"question": "Levi's Stadium eppo open aachu?",
+"reference_answer": "2014"
+},
+{
+"id": "tanglish_172",
+"question_en": "When was the last Super Bowl in California?",
+"question": "California la last Super Bowl eppo nadandhuchu?",
+"reference_answer": "2003"
+},
+{
+"id": "tanglish_173",
+"question_en": "Where was the meeting held when the NFL owners voted on the location for Super Bowl 50?",
+"question": "Super Bowl 50 oda location ku NFL owners vote panna meeting enga nadandhuchu?",
+"reference_answer": "Boston"
+},
+{
+"id": "tanglish_174",
+"question_en": "When was Levi's Stadium picked for Super bowl 50?",
+"question": "Super Bowl 50 ku Levi's Stadium ah eppo pick pannanga?",
+"reference_answer": "May 21, 2013"
+},
+{
+"id": "tanglish_175",
+"question_en": "When did Levi's Stadium open?",
+"question": "Levi's Stadium eppo open aachu?",
+"reference_answer": "2014."
+},
+{
+"id": "tanglish_176",
+"question_en": "How much did Levi's Stadium cost?",
+"question": "Levi's Stadium oda cost evlo?",
+"reference_answer": "$1.2 billion"
+},
+{
+"id": "tanglish_177",
+"question_en": "When was the last time California hosted a Super Bowl?",
+"question": "California last ah eppo Super Bowl ah host pannanga?",
+"reference_answer": "2003."
+},
+{
+"id": "tanglish_178",
+"question_en": "Who coached each Super Bowl 50 participant in their most recent Super Bowl appearance prior to Super Bowl 50?",
+"question": "Super Bowl 50 ku munnadi, Super Bowl 50 participants oda most recent Super Bowl appearance la yaar coach ah irundhanga?",
+"reference_answer": "John Fox"
+},
+{
+"id": "tanglish_179",
+"question_en": "How many NFL teams have finished the regular season with one loss?",
+"question": "Ethana NFL teams regular season ah ore oru loss oda finish pannirukanga?",
+"reference_answer": "ten"
+},
+{
+"id": "tanglish_180",
+"question_en": "How many NFL teams have gone 15-1 in one season?",
+"question": "Oru season la ethana NFL teams 15-1 record vachirukanga?",
+"reference_answer": "six"
+},
+{
+"id": "tanglish_181",
+"question_en": "Which team in Super Bowl 50 had a 15-1 record?",
+"question": "Super Bowl 50 la endha team kitta 15-1 record irundhuchu?",
+"reference_answer": "Carolina Panthers"
+},
+{
+"id": "tanglish_182",
+"question_en": "What was the last Super Bowl the Broncos participated in?",
+"question": "Broncos participate panna last Super Bowl edhu?",
+"reference_answer": "Super Bowl XLVIII"
+},
+{
+"id": "tanglish_183",
+"question_en": "Who was the head coach of the Broncos in Super Bowl XLVIII?",
+"question": "Super Bowl XLVIII la Broncos oda head coach yaaru?",
+"reference_answer": "John Fox"
+},
+{
+"id": "tanglish_184",
+"question_en": "What was the number of times the Denver Broncos played in a Super Bowl by the time they reached Super Bowl 50?",
+"question": "Super Bowl 50 ah reach aaguradhuku munnadi Denver Broncos ethana times Super Bowl la play pannirukanga?",
+"reference_answer": "eight"
+},
+{
+"id": "tanglish_185",
+"question_en": "How many NFL teams have had only one loss by the end of a regular season?",
+"question": "Oru regular season oda end la ethana NFL teams ku only one loss irundhurku?",
+"reference_answer": "ten"
+},
+{
+"id": "tanglish_186",
+"question_en": "What was the first Super Bowl that the Carolina Panthers played in? ",
+"question": "Carolina Panthers play panna first Super Bowl edhu?",
+"reference_answer": "Super Bowl XXXVIII"
+},
+{
+"id": "tanglish_187",
+"question_en": "How many teams can boast a 15–1 regular season record?",
+"question": "Ethana teams aala 15–1 regular season record ah boast panna mudiyum?",
+"reference_answer": "six"
+},
+{
+"id": "tanglish_188",
+"question_en": "What seed was the Carolina Panthers?",
+"question": "Carolina Panthers endha seed ah irundhanga?",
+"reference_answer": "number one"
+},
+{
+"id": "tanglish_189",
+"question_en": "What seed was the Denver Broncos?",
+"question": "Denver Broncos endha seed ah irundhanga?",
+"reference_answer": "number one"
+},
+{
+"id": "tanglish_190",
+"question_en": "Prior to Super Bowl 50, when were the Broncos last there?",
+"question": "Super Bowl 50 ku munnadi, Broncos last ah eppo anga irundhanga?",
+"reference_answer": "Super Bowl XLVIII"
+},
+{
+"id": "tanglish_191",
+"question_en": "Prior to Super Bowl 50, when were the Carolina Panthers last there?",
+"question": "Super Bowl 50 ku munnadi, Carolina Panthers last ah eppo anga irundhanga?",
+"reference_answer": "Super Bowl XXXVIII."
+},
+{
+"id": "tanglish_192",
+"question_en": "How many teams have had a 15-1 record for the regular season?",
+"question": "Regular season ku ethana teams kitta 15-1 record irundhirukku?",
+"reference_answer": "six"
+},
+{
+"id": "tanglish_193",
+"question_en": "How many games did the Panthers lose in the regular season before Super Bowl 50?",
+"question": "Super Bowl 50 ku munnadi regular season la Panthers ethana games ah lose pannanga?",
+"reference_answer": "one"
+},
+{
+"id": "tanglish_194",
+"question_en": "How many teams up to Super Bowl 50 have been to the championship game eight times?",
+"question": "Super Bowl 50 varai ethana teams championship game ku 8 times vandhurkanga?",
+"reference_answer": "four"
+},
+{
+"id": "tanglish_195",
+"question_en": "Before Super Bowl 50, what was the coach's name that coached both teams for their last Super Bowl appearances?",
+"question": "Super Bowl 50 ku munnadi, rendu teams kum avangoda last Super Bowl appearances la coach panna coach oda name enna?",
+"reference_answer": "John Fox"
+},
+{
+"id": "tanglish_196",
+"question_en": "Whic Carolina Panthers running back was waived?",
+"question": "Endha Carolina Panthers running back ah waive pannanga?",
+"reference_answer": "DeAngelo Williams"
+},
+{
+"id": "tanglish_197",
+"question_en": "Which Carolina Panthers wide receiver suffered a torn ACL before the season began?",
+"question": "Season start aagurathuku munnadi endha Carolina Panthers wide receiver ku torn ACL suffer aachu?",
+"reference_answer": "Kelvin Benjamin"
+},
+{
+"id": "tanglish_198",
+"question_en": "How many teams have won 15 regular season games since the 16-game schedule was adopted?",
+"question": "16-game schedule ah adopt pannadhuku approm ethana teams 15 regular season games ah win pannirukanga?",
+"reference_answer": "7"
+},
+{
+"id": "tanglish_199",
+"question_en": "In what year did the NFL switch to a 16-game regular season?",
+"question": "Endha year la NFL 16-game regular season ku switch aananga?",
+"reference_answer": "1978"
+},
+{
+"id": "tanglish_200",
+"question_en": "Who had the best record in the NFC?",
+"question": "NFC la yaar kitta best record irundhuchu?",
+"reference_answer": "Carolina Panthers"
+},
+{
+"id": "tanglish_201",
+"question_en": "How many Panthers went to the Pro Bowl?",
+"question": "Ethana Panthers Pro Bowl ku ponanga?",
+"reference_answer": "Ten"
+},
+{
+"id": "tanglish_202",
+"question_en": "How many Panthers were designated All-Pro?",
+"question": "Ethana Panthers ah All-Pro ah designate pannanga?",
+"reference_answer": "eight"
+},
+{
+"id": "tanglish_203",
+"question_en": "What Panther tore his ACL in the preseason?",
+"question": "Preseason la endha Panther avarodaiya ACL ah tear pannaru?",
+"reference_answer": "Kelvin Benjamin"
+},
+{
+"id": "tanglish_204",
+"question_en": "What year did the league begin having schedules with 16 games in them?",
+"question": "League endha year la 16 games ulla schedules ah start pannanga?",
+"reference_answer": "1978"
+},
+{
+"id": "tanglish_205",
+"question_en": "What year did the the Saints hit a 13-0 record?",
+"question": "Saints endha year 13-0 record ah hit pannanga?",
+"reference_answer": "2009"
+},
+{
+"id": "tanglish_206",
+"question_en": "When did the Packers arrive at a record of 13-0?",
+"question": "Packers eppo 13-0 record ah reach pannanga?",
+"reference_answer": "2011"
+},
+{
+"id": "tanglish_207",
+"question_en": "What injury did the Carolina Panthers lose Kelvin Benjamin to during their preseason?",
+"question": "Preseason la Carolina Panthers Kelvin Benjamin ah endha injury nala miss pannanga?",
+"reference_answer": "torn ACL"
+},
+{
+"id": "tanglish_208",
+"question_en": "Which player did the Panthers lose to an ACL injury in a preseason game?",
+"question": "Oru preseason game la ACL injury nala Panthers endha player ah miss pannanga?",
+"reference_answer": "Kelvin Benjamin"
+},
+{
+"id": "tanglish_209",
+"question_en": "Which running back did the Panthers waive?",
+"question": "Panthers endha running back ah waive pannanga?",
+"reference_answer": "DeAngelo Williams"
+},
+{
+"id": "tanglish_210",
+"question_en": "When did the NFL start their 16 game seasons?",
+"question": "NFL avangoda 16 game seasons ah eppo start pannanga?",
+"reference_answer": "1978"
+},
+{
+"id": "tanglish_211",
+"question_en": "How many Panthers players were selected to the Pro Bowl?",
+"question": "Ethana Panthers players Pro Bowl ku select aananga?",
+"reference_answer": "Ten"
+},
+{
+"id": "tanglish_212",
+"question_en": "Which team had the best regular season in their history?",
+"question": "Avangoda history la endha team kitta best regular season irundhuchu?",
+"reference_answer": "Carolina Panthers"
+},
+{
+"id": "tanglish_213",
+"question_en": "When did the league go from 15 to 16 games in the regular season?",
+"question": "Regular season la league eppo 15 la irundhu 16 games ku ponanga?",
+"reference_answer": "1978."
+},
+{
+"id": "tanglish_214",
+"question_en": "What team had the best start ever in the NFL?",
+"question": "NFL laye endha team kitta best start irundhuchu?",
+"reference_answer": "Carolina Panthers"
+},
+{
+"id": "tanglish_215",
+"question_en": "How many Panthers players were chosen for the 2015 season's Pro Bowl?",
+"question": "2015 season oda Pro Bowl ku ethana Panthers players ah choose pannanga?",
+"reference_answer": "Ten"
+},
+{
+"id": "tanglish_216",
+"question_en": "How many Pro Bowlers were on the Panthers offense?",
+"question": "Panthers offense la ethana Pro Bowlers irundhanga?",
+"reference_answer": "six"
+},
+{
+"id": "tanglish_217",
+"question_en": "How many total touchdowns did Cam Newton score?",
+"question": "Cam Newton total ah ethana touchdowns score pannaru?",
+"reference_answer": "45"
+},
+{
+"id": "tanglish_218",
+"question_en": "How many interceptions did Cam Newton throw?",
+"question": "Cam Newton ethana interceptions ah throw pannaru?",
+"reference_answer": "10"
+},
+{
+"id": "tanglish_219",
+"question_en": "How many punts did Ted Ginn Jr. return?",
+"question": "Ted Ginn Jr. ethana punts ah return pannaru?",
+"reference_answer": "27"
+},
+{
+"id": "tanglish_220",
+"question_en": "Who started at tight end for the Panthers?",
+"question": "Panthers ku tight end la yaaru start pannanga?",
+"reference_answer": "Greg Olsen"
+},
+{
+"id": "tanglish_221",
+"question_en": "What is the record number of touchdowns Cam Newton has had? ",
+"question": "Cam Newton vachiruka touchdowns oda record number enna?",
+"reference_answer": "45"
+},
+{
+"id": "tanglish_222",
+"question_en": "What is the best QB ranking that Cam Newton holds?",
+"question": "Cam Newton vachiruka best QB ranking enna?",
+"reference_answer": "99.4"
+},
+{
+"id": "tanglish_223",
+"question_en": "What are the most passes that Greg Olsen has had?",
+"question": "Greg Olsen vachiruka most passes evlo?",
+"reference_answer": "77 passes"
+},
+{
+"id": "tanglish_224",
+"question_en": "What position does Jerricho Cotchery play?",
+"question": "Jerricho Cotchery endha position la play pannanga?",
+"reference_answer": "receivers"
+},
+{
+"id": "tanglish_225",
+"question_en": "Which Panthers RB scored 6 TDs in the 13 games leading up to Super Bowl 50?",
+"question": "Super Bowl 50 ku munnadi ulla 13 games la endha Panthers RB 6 TDs ah score pannanga?",
+"reference_answer": "Jonathan Stewart"
+},
+{
+"id": "tanglish_226",
+"question_en": "How many Offensive players from the Panthers were selected to play in the Pro Bowl?",
+"question": "Panthers kitta irundhu ethana Offensive players Pro Bowl la play panna select aananga?",
+"reference_answer": "six"
+},
+{
+"id": "tanglish_227",
+"question_en": "Who is the quarterback for the Carolina Panthers?",
+"question": "Carolina Panthers oda quarterback yaaru?",
+"reference_answer": "Cam Newton"
+},
+{
+"id": "tanglish_228",
+"question_en": "How many yards did Newton throw for in 2015?",
+"question": "2015 la Newton ethana yards ku throw pannaru?",
+"reference_answer": "3,837"
+},
+{
+"id": "tanglish_229",
+"question_en": "How many touchdowns did Newton have in 2015?",
+"question": "2015 la Newton kitta ethana touchdowns irundhuchu?",
+"reference_answer": "45"
+},
+{
+"id": "tanglish_230",
+"question_en": "How many touchdowns did Jonathan Stewart have in 13 games?",
+"question": "13 games la Jonathan Stewart kitta ethana touchdowns irundhuchu?",
+"reference_answer": "six"
+},
+{
+"id": "tanglish_231",
+"question_en": "How many points did Carolina lead the NFL in scoring for offensive plays?",
+"question": "Offensive plays kaga Carolina NFL ah ethana points score panni lead pannanga?",
+"reference_answer": "500"
+},
+{
+"id": "tanglish_232",
+"question_en": "how many yards did Newton get for passes in the 2015 season?",
+"question": "2015 season la passes kaga Newton ethana yards vanginaaru?",
+"reference_answer": "3,837"
+},
+{
+"id": "tanglish_233",
+"question_en": "How many touchdowns did Newton get in the 2015 season?",
+"question": "2015 season la Newton ku ethana touchdowns kedaichithu?",
+"reference_answer": "45"
+},
+{
+"id": "tanglish_234",
+"question_en": "What was Newton's quarterback rating for 2015?",
+"question": "2015 la Newton oda quarterback rating enna?",
+"reference_answer": "99.4."
+},
+{
+"id": "tanglish_235",
+"question_en": "How many receptions did Cotchery  get for the 2015 season?",
+"question": "2015 season ku Cotchery ku ethana receptions kedaichithu?",
+"reference_answer": "39"
+},
+{
+"id": "tanglish_236",
+"question_en": "How many points did the Panthers defense surrender?",
+"question": "Panthers defense ethana points ah surrender pannanga?",
+"reference_answer": "308"
+},
+{
+"id": "tanglish_237",
+"question_en": "How many career sacks did Jared Allen have?",
+"question": "Jared Allen kitta ethana career sacks irundhuchu?",
+"reference_answer": "136"
+},
+{
+"id": "tanglish_238",
+"question_en": "How many tackles did Luke Kuechly register?",
+"question": "Luke Kuechly ethana tackles ah register pannaru?",
+"reference_answer": "118"
+},
+{
+"id": "tanglish_239",
+"question_en": "How many balls did Josh Norman intercept?",
+"question": "Josh Norman ethana balls ah intercept pannaru?",
+"reference_answer": "four"
+},
+{
+"id": "tanglish_240",
+"question_en": "Who registered the most sacks on the team this season?",
+"question": "Indha season la team laye most sacks ah register pannadhu yaaru?",
+"reference_answer": "Kawann Short"
+},
+{
+"id": "tanglish_241",
+"question_en": "How many interceptions are the Panthers defense credited with in 2015?",
+"question": "2015 la Panthers defense ethana interceptions ah vachirundhanga?",
+"reference_answer": "24"
+},
+{
+"id": "tanglish_242",
+"question_en": "Who led the Panthers in sacks?",
+"question": "Sacks la Panthers ah lead pannadhu yaaru?",
+"reference_answer": "Kawann Short"
+},
+{
+"id": "tanglish_243",
+"question_en": "How many Panthers defense players were selected for the Pro Bowl?",
+"question": "Ethana Panthers defense players Pro Bowl ku select aananga?",
+"reference_answer": "four"
+},
+{
+"id": "tanglish_244",
+"question_en": "How many forced fumbles did Thomas Davis have?",
+"question": "Thomas Davis ethana fumbles ah force pannaru?",
+"reference_answer": "four"
+},
+{
+"id": "tanglish_245",
+"question_en": "Which player had the most interceptions for the season?",
+"question": "Season laye endha player kitta most interceptions irundhuchu?",
+"reference_answer": "Kurt Coleman"
+},
+{
+"id": "tanglish_246",
+"question_en": "How many 2015 season interceptions did the Panthers' defense get?",
+"question": "2015 season la Panthers oda defense ku ethana interceptions kedaichithu?",
+"reference_answer": "24"
+},
+{
+"id": "tanglish_247",
+"question_en": "Who had five sacks in nine games as a Carolina Panthers starter?",
+"question": "Oru Carolina Panthers starter ah 9 games la 5 sacks vachirundhadhu yaaru?",
+"reference_answer": "Kony Ealy"
+},
+{
+"id": "tanglish_248",
+"question_en": "Who was the Panthers' tackle leader for 2015?",
+"question": "2015 la Panthers oda tackle leader yaaru?",
+"reference_answer": "Luke Kuechly."
+},
+{
+"id": "tanglish_249",
+"question_en": "How many interceptions did Josh Norman score touchdowns with in 2015?",
+"question": "2015 la Josh Norman ethana interceptions kooda touchdowns score pannaru?",
+"reference_answer": "two."
+},
+{
+"id": "tanglish_250",
+"question_en": "Who is the head coach of the Broncos?",
+"question": "Broncos oda head coach yaaru?",
+"reference_answer": "Gary Kubiak"
+},
+{
+"id": "tanglish_251",
+"question_en": "Who played quarterback for the Broncos after Peyton Manning was benched?",
+"question": "Peyton Manning ah bench pannadhuku approm Broncos ku yaaru quarterback ah play pannanga?",
+"reference_answer": "Brock Osweiler"
+},
+{
+"id": "tanglish_252",
+"question_en": "Who did Peyton Manning play for as a rookie?",
+"question": "Rookie ah Peyton Manning yaarukaga play pannaru?",
+"reference_answer": "Indianapolis Colts"
+},
+{
+"id": "tanglish_253",
+"question_en": "Who did the Broncos play in the last week of the regular season?",
+"question": "Regular season oda last week la Broncos yaarkooda play pannanga?",
+"reference_answer": "San Diego Chargers"
+},
+{
+"id": "tanglish_254",
+"question_en": "Who is Denver's defensive coordinator?",
+"question": "Denver oda defensive coordinator yaaru?",
+"reference_answer": "Wade Phillips"
+},
+{
+"id": "tanglish_255",
+"question_en": "How many years was John Fox the head coach of the Denver Broncos?",
+"question": "Denver Broncos oda head coach ah John Fox ethana years irundharu?",
+"reference_answer": "four"
+},
+{
+"id": "tanglish_256",
+"question_en": "What is the name of the Bronco's head coach, who was hired after John Fox? ",
+"question": "John Fox ku approm hire pannapatta Bronco oda head coach name enna?",
+"reference_answer": "Gary Kubiak"
+},
+{
+"id": "tanglish_257",
+"question_en": "What was the first team Peyton Manning began playing for?",
+"question": "Peyton Manning play panna start panna first team edhu?",
+"reference_answer": "Indianapolis Colts"
+},
+{
+"id": "tanglish_258",
+"question_en": "How old was Peyton Manning in 2015?",
+"question": "2015 la Peyton Manning oda age enna?",
+"reference_answer": "39"
+},
+{
+"id": "tanglish_259",
+"question_en": "In the 10th week of the 2015 season, what injury was Peyton Manning dealing with?",
+"question": "2015 season oda 10th week la, Peyton Manning endha injury kooda deal pannitu irundharu?",
+"reference_answer": "plantar fasciitis"
+},
+{
+"id": "tanglish_260",
+"question_en": "When John Fox left as head coach for the Broncos, who replaced him?",
+"question": "John Fox Broncos oda head coach ah irundhu poitta approm, avara yaaru replace pannanga?",
+"reference_answer": "Gary Kubiak"
+},
+{
+"id": "tanglish_261",
+"question_en": "Who was the quarterback for the Broncos 2015 season?",
+"question": "Broncos oda 2015 season ku quarterback yaaru?",
+"reference_answer": "Peyton Manning"
+},
+{
+"id": "tanglish_262",
+"question_en": "What injury did Manning suffer the summer before the season started?",
+"question": "Season start aagurathuku munnadi summer la Manning endha injury aala suffer aanaaru?",
+"reference_answer": "a plantar fasciitis injury"
+},
+{
+"id": "tanglish_263",
+"question_en": "How old was Manning at the beginning of the 2015 season?",
+"question": "2015 season oda beginning la Manning oda age enna?",
+"reference_answer": "39"
+},
+{
+"id": "tanglish_264",
+"question_en": "How many games did the Broncos lose during their regular 2015 season?",
+"question": "Broncos avangoda regular 2015 season la ethana games ah lose pannanga?",
+"reference_answer": "four"
+},
+{
+"id": "tanglish_265",
+"question_en": "What coach left the Broncos after the season prior to Super Bowl 50?",
+"question": "Super Bowl 50 ku munnadi ulla season ku approm endha coach Broncos ah vittu ponanga?",
+"reference_answer": "John Fox"
+},
+{
+"id": "tanglish_266",
+"question_en": "According to game stats, which Super Bowl 50 quarterback had his worst year since his first season as a player in the NFL?",
+"question": "Game stats padi, endha Super Bowl 50 quarterback NFL la oru player ah avanga first season la irundhu avangoda worst year ah vachirundhanga?",
+"reference_answer": "Peyton Manning"
+},
+{
+"id": "tanglish_267",
+"question_en": "Who was the Denver head coach for Super Bowl 50?",
+"question": "Super Bowl 50 ku Denver oda head coach ah yaaru irundhanga?",
+"reference_answer": "Gary Kubiak"
+},
+{
+"id": "tanglish_268",
+"question_en": "What foot was injured on Manning that sidelined him in week 10?",
+"question": "Week 10 la Manning oda endha foot injured aagi avara sideline pannuchu?",
+"reference_answer": "left foot."
+},
+{
+"id": "tanglish_269",
+"question_en": "Who was the defensive coordinator for the Broncos in 2015?",
+"question": "2015 la Broncos oda defensive coordinator yaaru?",
+"reference_answer": "Wade Phillips"
+},
+{
+"id": "tanglish_270",
+"question_en": "What was Peyton Manning's passer rating for the season?",
+"question": "Season ku Peyton Manning oda passer rating enna?",
+"reference_answer": "67.9"
+},
+{
+"id": "tanglish_271",
+"question_en": "How many picks did Peyton Manning throw in the season?",
+"question": "Season la Peyton Manning ethana picks ah throw pannaru?",
+"reference_answer": "17"
+},
+{
+"id": "tanglish_272",
+"question_en": "Who registered the most receptions on the Broncos?",
+"question": "Broncos la most receptions ah register pannadhu yaaru?",
+"reference_answer": "Demaryius Thomas"
+},
+{
+"id": "tanglish_273",
+"question_en": "Who had the most rushing yards on the Broncos?",
+"question": "Broncos laye most rushing yards ah vachirundhadhu yaaru?",
+"reference_answer": "C. J. Anderson"
+},
+{
+"id": "tanglish_274",
+"question_en": "How many touchdowns did Brock Osweiler throw in the season?",
+"question": "Season la Brock Osweiler ethana touchdowns ah throw pannaru?",
+"reference_answer": "10"
+},
+{
+"id": "tanglish_275",
+"question_en": "What was the passer rating for Peyton Manning that he finished out with for the season? ",
+"question": "Season mudiyum podhu Peyton Manning kitta irundha passer rating enna?",
+"reference_answer": "67.9"
+},
+{
+"id": "tanglish_276",
+"question_en": "How may yards did Peyton Manning throw?",
+"question": "Peyton Manning ethana yards ku throw pannaru?",
+"reference_answer": "2,249"
+},
+{
+"id": "tanglish_277",
+"question_en": "What was the number of 17 interceptions that Peyton Manning had by end of the year?",
+"question": "Year end kula Peyton Manning vachirundha interceptions oda count enna?",
+"reference_answer": "nine"
+},
+{
+"id": "tanglish_278",
+"question_en": "Who had the most receptions out of all players for the year?",
+"question": "Indha year la ulla ellam players layum yaar kitta most receptions irundhuchu?",
+"reference_answer": "Demaryius Thomas"
+},
+{
+"id": "tanglish_279",
+"question_en": "What position does Demaryius Thomas play?",
+"question": "Demaryius Thomas endha position la play pannanga?",
+"reference_answer": "receiver"
+},
+{
+"id": "tanglish_280",
+"question_en": "What was Manning's passer rating at the end of the season?",
+"question": "Season oda end la Manning oda passer rating enna?",
+"reference_answer": "67.9"
+},
+{
+"id": "tanglish_281",
+"question_en": "How many times was Manning intercepted during the 2015 season?",
+"question": "2015 season la Manning ethana times intercept aanaru?",
+"reference_answer": "17"
+},
+{
+"id": "tanglish_282",
+"question_en": "Who led the Broncos with 105 receptions?",
+"question": "105 receptions kooda Broncos ah lead pannadhu yaaru?",
+"reference_answer": "Demaryius Thomas"
+},
+{
+"id": "tanglish_283",
+"question_en": "How many touchdowns did Ronnie Hillman make?",
+"question": "Ronnie Hillman ethana touchdowns pannaru?",
+"reference_answer": "5"
+},
+{
+"id": "tanglish_284",
+"question_en": "What was Manning's passer rating for the 2015 season?",
+"question": "2015 season ku Manning oda passer rating enna?",
+"reference_answer": "67.9"
+},
+{
+"id": "tanglish_285",
+"question_en": "How many interceptions did manning have in 2015?",
+"question": "2015 la manning kitta ethana interceptions irundhuchu?",
+"reference_answer": "17"
+},
+{
+"id": "tanglish_286",
+"question_en": "What Denver player caught the ball 76 times in the 2015 season?",
+"question": "2015 season la endha Denver player ball ah 76 times catch pannanga?",
+"reference_answer": "Emmanuel Sanders"
+},
+{
+"id": "tanglish_287",
+"question_en": "Who was the Broncos' leading rusher for the 2015 season?",
+"question": "2015 season la Broncos oda leading rusher yaaru?",
+"reference_answer": "C. J. Anderson"
+},
+{
+"id": "tanglish_288",
+"question_en": "What was Ronnie Hillman's average yards per carry in 2015?",
+"question": "2015 la Ronnie Hillman oda average yards per carry enna?",
+"reference_answer": "4.7"
+},
+{
+"id": "tanglish_289",
+"question_en": "How many yards did the Broncos' defense give up?",
+"question": "Broncos oda defense ethana yards ah give up pannanga?",
+"reference_answer": "4,530"
+},
+{
+"id": "tanglish_290",
+"question_en": "How many sacks did Derek Wolfe register?",
+"question": "Derek Wolfe ethana sacks ah register pannaru?",
+"reference_answer": "5½"
+},
+{
+"id": "tanglish_291",
+"question_en": "Who was first on the team in total tackles?",
+"question": "Total tackles la team laye first la irundhadhu yaaru?",
+"reference_answer": "Brandon Marshall"
+},
+{
+"id": "tanglish_292",
+"question_en": "How many picks did Aqib Talib have?",
+"question": "Aqib Talib kitta ethana picks irundhuchu?",
+"reference_answer": "three"
+},
+{
+"id": "tanglish_293",
+"question_en": "What position does DeMarcus currently play? ",
+"question": "DeMarcus currently endha position la play pannanga?",
+"reference_answer": "Linebacker"
+},
+{
+"id": "tanglish_294",
+"question_en": "What position does Brandon Marshall currently play? ",
+"question": "Brandon Marshall currently endha position la play pannanga?",
+"reference_answer": "Linebacker"
+},
+{
+"id": "tanglish_295",
+"question_en": "What is the position Derek Wolfe plays currently? ",
+"question": "Derek Wolfe currently play panra position enna?",
+"reference_answer": "Defensive ends"
+},
+{
+"id": "tanglish_296",
+"question_en": "How many points did the Broncos defense allow their opponents to get?",
+"question": "Broncos defense avangoda opponents ah ethana points eduka allow pannanga?",
+"reference_answer": "296"
+},
+{
+"id": "tanglish_297",
+"question_en": "Which linebacker had the most sacks on the team?",
+"question": "Endha linebacker kitta team laye most sacks irundhuchu?",
+"reference_answer": "Von Miller"
+},
+{
+"id": "tanglish_298",
+"question_en": "Which linebacker led the Broncos in tackles?",
+"question": "Tackles la endha linebacker Broncos ah lead pannanga?",
+"reference_answer": "Brandon Marshall"
+},
+{
+"id": "tanglish_299",
+"question_en": "How many interceptions did Aqib Talib have for the regular season?",
+"question": "Regular season ku Aqib Talib kitta ethana interceptions irundhuchu?",
+"reference_answer": "three."
+}
+]
