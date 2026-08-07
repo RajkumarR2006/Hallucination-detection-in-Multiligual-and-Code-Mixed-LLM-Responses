@@ -33,7 +33,7 @@
 "id": "tanglish_5",
 "question_en": "What was the theme of Super Bowl 50?",
 "question": "Super Bowl 50 oda theme enna?",
-"reference_answer": ""golden anniversary""
+"reference_answer": "golden anniversary"
 },
 {
 "id": "tanglish_6",
@@ -51,7 +51,7 @@
 "id": "tanglish_8",
 "question_en": "What was the theme of Super Bowl 50?",
 "question": "Super Bowl 50 oda theme enna?",
-"reference_answer": ""golden anniversary""
+"reference_answer": "golden anniversary"
 },
 {
 "id": "tanglish_9",
@@ -697,8 +697,8 @@
 },
 {
 "id": "tanglish_116",
-"question_en": "What year did Roger Goodell announce that Super Bowl 50 would be "important"?",
-"question": "Super Bowl 50 "important" ah irukum nu Roger Goodell endha year announce pannaru?",
+"question_en": "What year did Roger Goodell announce that Super Bowl 50 would be important?",
+"question": "Super Bowl 50 important ah irukum nu Roger Goodell endha year announce pannaru?",
 "reference_answer": "2012"
 },
 {
