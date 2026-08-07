@@ -1,0 +1,32 @@
+﻿Language,Dataset_Index,ID,English_Question,Current_Question,Reference_Answer
+Tamil,11,tamil_qa_11,Who did Rollo sign the treaty of Saint-Clair-sur-Epte with?,தமிழின் முதல் பல்துறைக் கலைக்களஞ்சியம் 1947-1968 காலப்பகுதியில் தமிழ் வளர்ச்சிக் கழகத்தால் வெளியிடப்பட்ட  ஆகும்.,தமிழ்க் கலைக்களஞ்சியம்
+Tamil,44,tamil_qa_44,Who was the ruling class ahead of the Normans?,தமிழின் முதல் பல்துறைக் கலைக்களஞ்சியம் 1947-1968 காலப்பகுதியில் தமிழ் வளர்ச்சிக் கழகத்தால் வெளியிடப்பட்ட  ஆகும்.,தமிழ்க் கலைக்களஞ்சியம்
+Tamil,36,tamil_qa_36,To where did Ethelred flee?,தேவாரத் திருப்பதிகங்களில் பாடப்பட்டுள்ள  276.,தேவாரத் திருத்தலங்கள்
+Tamil,259,tamil_qa_259,What is commonly believed to be the value relationship between P and co-NP,தேவாரத் திருப்பதிகங்களில் பாடப்பட்டுள்ள  276.,தேவாரத் திருத்தலங்கள்
+Tamil,52,tamil_qa_52,Who was the hostage?,"உலகில் அதிகம் உண்ணப்படும் இறைச்சி  ஆகும், 2004 ம் ஆண்டில் 16,194,925,000 கோழிகள் உற்பத்தி செய்யப்பட்டன.",கோழி
+Tamil,170,tamil_qa_170,Time and space are both examples of what type of resource?,"உலகில் அதிகம் உண்ணப்படும் இறைச்சி  ஆகும், 2004 ம் ஆண்டில் 16,194,925,000 கோழிகள் உற்பத்தி செய்யப்பட்டன.",கோழி
+Tamil,67,tamil_qa_67,What year did the storm hit Richard's fleet?,1957ம் ஆண்டு ஐபிஎம் நிறுவனத்தால் அறிமுகப்படுத்தப்பட்டு இன்றும் பயன்பாட்டில் இருக்கும்  நிரல் மொழியே முதலாவது உயர்நிலை நிரல் மொழியாகும்.,போர்ட்ரான்
+Tamil,75,tamil_qa_75,Who sold the rights?,1957ம் ஆண்டு ஐபிஎம் நிறுவனத்தால் அறிமுகப்படுத்தப்பட்டு இன்றும் பயன்பாட்டில் இருக்கும்  நிரல் மொழியே முதலாவது உயர்நிலை நிரல் மொழியாகும்.,போர்ட்ரான்
+Tamil,98,tamil_qa_98,What is the term for a task that generally lends itself to being solved by a computer?,இந்திய விடுதலைப் போராளி  கொல்லப்பட்ட இடமான அலகாபாத் அல்ஃப்ரெட் பூங்கா (படம்) அதன் பிறகு சந்திரசேகர ஆசாத் பூங்கா என்றே அழைக்கப்பட்டது.,சந்திரசேகர
+Tamil,252,tamil_qa_252,What is the most well-known algorithm associated with the integer factorization problem?,இந்திய விடுதலைப் போராளி  கொல்லப்பட்ட இடமான அலகாபாத் அல்ஃப்ரெட் பூங்கா (படம்) அதன் பிறகு சந்திரசேகர ஆசாத் பூங்கா என்றே அழைக்கப்பட்டது.,சந்திரசேகர
+Tamil,101,tamil_qa_101,What are two basic primary resources used to guage complexity?, எனப்படுவது பிரான்சையும் இங்கிலாந்தையும் ஆண்ட இரண்டு பிரான்சிய அரச குடும்பங்களுக்கிடையே ஆட்சியுரிமைக்காக 1337 ஆம் ஆண்டு தொடர்க்கம் 1453 ம் ஆண்டு வரை தொடர்ந்து நடைபெற்ற போர்களைக் குறிக்கிறது. .,நூறாண்டுப் போர்
+Tamil,273,tamil_qa_273,What is the example of another problem characterized by large instances that is routinely solved by SAT handlers employing efficient algorithms?, எனப்படுவது பிரான்சையும் இங்கிலாந்தையும் ஆண்ட இரண்டு பிரான்சிய அரச குடும்பங்களுக்கிடையே ஆட்சியுரிமைக்காக 1337 ஆம் ஆண்டு தொடர்க்கம் 1453 ம் ஆண்டு வரை தொடர்ந்து நடைபெற்ற போர்களைக் குறிக்கிறது. .,நூறாண்டுப் போர்
+Tamil,122,tamil_qa_122,What are the two simple word responses to a decision problem?,ஓர் ஆங்கில மாதத்தில் வரும் இரண்டாவது  நீல நிலவு என வழங்கப்படுகிறது. அத்தகைய முழுநிலவு 2009 ஆண்டு திசம்பர் 31 அன்று நிகழ்கிறது.,முழு நிலவு
+Tamil,169,tamil_qa_169,What is the most critical resource measured to in assessing the determination of a Turing machine's ability to solve any given set of problems?,ஓர் ஆங்கில மாதத்தில் வரும் இரண்டாவது  நீல நிலவு என வழங்கப்படுகிறது. அத்தகைய முழுநிலவு 2009 ஆண்டு திசம்பர் 31 அன்று நிகழ்கிறது.,முழு நிலவு
+Tamil,202,tamil_qa_202,What are three examples of complexity classes associated with definitions established by probabilistic Turing machines?,யூடியூப் இணையத்தளத்தில் மிக அதிகமாகப் பார்வையிடப்பட்ட கங்னம் ஸ்டைல் பாடலைப் பாடியவர் தென்கொரியக் கலைஞர்  (படம்),சை
+Tamil,251,tamil_qa_251,That there currently exists no known integer factorization problem underpins what commonly used system?,யூடியூப் இணையத்தளத்தில் மிக அதிகமாகப் பார்வையிடப்பட்ட கங்னம் ஸ்டைல் பாடலைப் பாடியவர் தென்கொரியக் கலைஞர்  (படம்),சை
+Tanglish,2,tanglish_2,Where did Super Bowl 50 take place?,Super Bowl 50 enga nadandhuchu?,"Santa Clara, California"
+Tanglish,27,tanglish_27,Where was Super Bowl 50 held?,Super Bowl 50 enga nadandhuchu?,"Santa Clara, California."
+Tanglish,5,tanglish_5,What was the theme of Super Bowl 50?,Super Bowl 50 oda theme enna?,golden anniversary
+Tanglish,8,tanglish_8,What was the theme of Super Bowl 50?,Super Bowl 50 oda theme enna?,golden anniversary
+Tanglish,11,tanglish_11,Who won Super Bowl 50?,Super Bowl 50 ah win pannadhu yaaru?,Denver Broncos
+Tanglish,24,tanglish_24,Who won Super Bowl 50?,Super Bowl 50 ah win pannadhu yaaru?,Denver Broncos
+Tanglish,13,tanglish_13,What city did Super Bowl 50 take place in?,Super Bowl 50 endha city la nadandhuchu?,Santa Clara
+Tanglish,17,tanglish_17,What city did Super Bowl 50 take place in?,Super Bowl 50 endha city la nadandhuchu?,Santa Clara
+Tanglish,112,tanglish_112,Who if the commissioner of the NFL?,NFL oda commissioner yaaru?,Roger Goodell
+Tanglish,113,tanglish_113,Who is the commissioner of the NFL?,NFL oda commissioner yaaru?,Roger Goodell
+Tanglish,157,tanglish_157,When did Lev's Stadium open?,Levi's Stadium eppo open aachu?,2014
+Tanglish,171,tanglish_171,When did Levi's Stadium open?,Levi's Stadium eppo open aachu?,2014
+Tanglish,175,tanglish_175,When did Levi's Stadium open?,Levi's Stadium eppo open aachu?,2014.
+Tanglish,158,tanglish_158,How much did it cost to build Levi's Stadium?,Levi's Stadium ah build panna evlo cost aachu?,$1.2 billion
+Tanglish,162,tanglish_162,How much did it cost to build Levi's Stadium?,Levi's Stadium ah build panna evlo cost aachu?,$1.2 billion
