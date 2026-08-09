@@ -1,0 +1,16 @@
+Cross-Language Alignment Report
+============================================================
+
+English records  : 300
+Tamil records    : 300
+Tanglish records : 300
+
+English/Tamil IDs aligned     : 300
+English/Tanglish IDs aligned  : 300
+Tanglish question_en matches  : 300
+
+STATUS: PASS
+
+All 300 English, Tamil, and Tanglish records share the same canonical IDs.
+Tanglish question_en values exactly match the English source questions.
+Required fields are present and non-empty.

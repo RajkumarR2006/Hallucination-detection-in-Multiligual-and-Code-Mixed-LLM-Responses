@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "56ddde6b9a695914005b9628",
+    "question_en": "In what country is Normandy located?",
+    "question": "Normandy entha country-la locate aagi irukku?",
+    "reference_answer": "France"
+  },
+  {
+    "id": "56ddde6b9a695914005b9629",
+    "question_en": "When were the Normans in Normandy?",
+    "question": "Normans eppo Normandy-la irunthaanga?",
+    "reference_answer": "10th and 11th centuries"
+  },
+  {
+    "id": "56ddde6b9a695914005b962a",
+    "question_en": "From which countries did the Norse originate?",
+    "question": "Norse entha countries-la irunthu originate aanaanga?",
+    "reference_answer": "Denmark, Iceland and Norway"
+  },
+  {
+    "id": "56ddde6b9a695914005b962b",
+    "question_en": "Who was the Norse leader?",
+    "question": "Norse leader yaaru?",
+    "reference_answer": "Rollo"
+  },
+  {
+    "id": "56ddde6b9a695914005b962c",
+    "question_en": "What century did the Normans first gain their separate identity?",
+    "question": "Normans entha century-la first avangaloada separate identity-a gain pannaanga?",
+    "reference_answer": "10th century"
+  },
+  {
+    "id": "56dddf4066d3e219004dad5f",
+    "question_en": "Who was the duke in the battle of Hastings?",
+    "question": "Battle of Hastings-la duke yaaru?",
+    "reference_answer": "William the Conqueror"
+  },
+  {
+    "id": "56dddf4066d3e219004dad60",
+    "question_en": "Who ruled the duchy of Normandy",
+    "question": "Duchy of Normandy-a yaaru rule pannaanga?",
+    "reference_answer": "Richard I"
+  },
+  {
+    "id": "56dddf4066d3e219004dad61",
+    "question_en": "What religion were the Normans",
+    "question": "Normans entha religion-a sernthavanga?",
+    "reference_answer": "Catholic"
+  },
+  {
+    "id": "56dde0379a695914005b9636",
+    "question_en": "What is the original meaning of the word Norman?",
+    "question": "Norman word-oda original meaning enna?",
+    "reference_answer": "Viking"
+  },
+  {
+    "id": "56dde0379a695914005b9637",
+    "question_en": "When was the Latin version of the word Norman first recorded?",
+    "question": "Norman word-oda Latin version eppo first record aachu?",
+    "reference_answer": "9th century"
+  },
+  {
+    "id": "56dde0ba66d3e219004dad75",
+    "question_en": "When was the Duchy of Normandy founded?",
+    "question": "Duchy of Normandy eppo found panna patthathu?",
+    "reference_answer": "911"
+  },
+  {
+    "id": "56dde0ba66d3e219004dad76",
+    "question_en": "Who did Rollo sign the treaty of Saint-Clair-sur-Epte with?",
+    "question": "Rollo treaty of Saint-Clair-sur-Epte-a yaar kooda sign pannaaru?",
+    "reference_answer": "King Charles III"
+  },
+  {
+    "id": "56dde0ba66d3e219004dad77",
+    "question_en": "What river originally bounded the Duchy",
+    "question": "Entha river originally Duchy-a bound pannuchu?",
+    "reference_answer": "Seine"
+  },
+  {
+    "id": "56dde1d966d3e219004dad8d",
+    "question_en": "Who upon arriving gave the original viking settlers a common identity?",
+    "question": "Yaaru vantha piragu original viking settlers-kku oru common identity-a kuduthaanga?",
+    "reference_answer": "Rollo"
+  },
+  {
+    "id": "56dde27d9a695914005b9651",
+    "question_en": "What was the Norman religion?",
+    "question": "Norman religion ennava irunthathu?",
+    "reference_answer": "Catholicism"
+  },
+  {
+    "id": "56dde27d9a695914005b9652",
+    "question_en": "What part of France were the Normans located?",
+    "question": "France-oda entha part-la Normans locate aagi irunthaanga?",
+    "reference_answer": "north"
+  },
+  {
+    "id": "56dde2fa66d3e219004dad9b",
+    "question_en": "What was one of the Norman's major exports?",
+    "question": "Norman-oda major exports-la onnu enna?",
+    "reference_answer": "fighting horsemen"
+  },
+  {
+    "id": "56de0f6a4396321400ee257f",
+    "question_en": "Who was the Normans' main enemy in Italy, the Byzantine Empire and Armenia?",
+    "question": "Italy, Byzantine Empire matrum Armenia-la Normans-oda main enemy yaaru?",
+    "reference_answer": "Seljuk Turks"
+  },
+  {
+    "id": "56de0ffd4396321400ee258d",
+    "question_en": "When did Herve serve as a Byzantine general?",
+    "question": "Herve eppo Byzantine general-a serve pannaaru?",
+    "reference_answer": "1050s"
+  },
+  {
+    "id": "56de0ffd4396321400ee258e",
+    "question_en": "When did Robert Crispin go up against the Turks?",
+    "question": "Robert Crispin eppo Turks-kku ethiraa poanaaru?",
+    "reference_answer": "1060s"
+  },
+  {
+    "id": "56de0ffd4396321400ee258f",
+    "question_en": "Who ruined Roussel de Bailleul's plans for an independent state?",
+    "question": "Oru independent state-kkaana Roussel de Bailleul-oda plans-a yaaru ruin pannaanga?",
+    "reference_answer": "Alexius Komnenos"
+  },
+  {
+    "id": "56de10b44396321400ee2593",
+    "question_en": "What was the name of the Norman castle?",
+    "question": "Norman castle-oda name enna?",
+    "reference_answer": "Afranji"
+  },
+  {
+    "id": "56de10b44396321400ee2594",
+    "question_en": "Who was the leader when the Franks entered the Euphrates valley?",
+    "question": "Franks Euphrates valley-la enter aanappo leader yaaru?",
+    "reference_answer": "Oursel"
+  },
+  {
+    "id": "56de10b44396321400ee2595",
+    "question_en": "Who did the Normans team up with in Anatolia?",
+    "question": "Anatolia-la Normans yaar kooda team up pannaanga?",
+    "reference_answer": "Turkish forces"
+  },
+  {
+    "id": "56de11154396321400ee25aa",
+    "question_en": "What were the origins of the Raouliii family?",
+    "question": "Raouliii family-oda origins enna?",
+    "reference_answer": "Norman mercenary"
+  },
+  {
+    "id": "56de148dcffd8e1900b4b5bc",
+    "question_en": "What was the name of the count of Apulia ",
+    "question": "Count of Apulia-oda name enna?",
+    "reference_answer": "Robert Guiscard"
+  },
+  {
+    "id": "56de148dcffd8e1900b4b5bd",
+    "question_en": "When did Dyrrachium  fall to the Normans?",
+    "question": "Dyrrachium eppo Normans kitta fall aachu?",
+    "reference_answer": "1082"
+  },
+  {
+    "id": "56de148dcffd8e1900b4b5be",
+    "question_en": "How many men were in Robert's army?",
+    "question": "Robert-oda army-la evlo men irunthaanga?",
+    "reference_answer": "30,000"
+  },
+  {
+    "id": "56de15104396321400ee25b7",
+    "question_en": "Where did the Normans and Byzantines sign the peace treaty?",
+    "question": "Normans-um Byzantines-um peace treaty-a enga sign pannaanga?",
+    "reference_answer": "Deabolis"
+  },
+  {
+    "id": "56de15104396321400ee25b8",
+    "question_en": "Who was Robert's son?",
+    "question": "Robert-oda son yaaru?",
+    "reference_answer": "Bohemond"
+  },
+  {
+    "id": "56de15104396321400ee25b9",
+    "question_en": "What river was Petrela located by?",
+    "question": "Petrela entha river pakkathula locate aagi irunthuchu?",
+    "reference_answer": "Deabolis"
+  },
+  {
+    "id": "56de1563cffd8e1900b4b5c2",
+    "question_en": "When did the Normans attack Dyrrachium?",
+    "question": "Normans eppo Dyrrachium-a attack pannaanga?",
+    "reference_answer": "1185"
+  },
+  {
+    "id": "56de1563cffd8e1900b4b5c3",
+    "question_en": "What was the naval base called?",
+    "question": "Naval base epdi call panna patthathu?",
+    "reference_answer": "Dyrrachium"
+  },
+  {
+    "id": "56de1563cffd8e1900b4b5c4",
+    "question_en": "Where was Dyrrachium located?",
+    "question": "Dyrrachium enga locate aagi irunthuchu?",
+    "reference_answer": "the Adriatic"
+  },
+  {
+    "id": "56de15dbcffd8e1900b4b5c8",
+    "question_en": "Who did Emma Marry?",
+    "question": "Emma yaara marry pannaanga?",
+    "reference_answer": "King Ethelred II"
+  },
+  {
+    "id": "56de15dbcffd8e1900b4b5c9",
+    "question_en": "Who was Emma's brother?",
+    "question": "Emma-voda brother yaaru?",
+    "reference_answer": "Duke Richard II"
+  },
+  {
+    "id": "56de15dbcffd8e1900b4b5ca",
+    "question_en": "To where did Ethelred flee?",
+    "question": "Ethelred enga thappi poanaaru?",
+    "reference_answer": "Normandy"
+  },
+  {
+    "id": "56de15dbcffd8e1900b4b5cb",
+    "question_en": "Who kicked Ethelred out?",
+    "question": "Ethelred-a yaaru veliye thurathinaanga?",
+    "reference_answer": "Sweyn Forkbeard"
+  },
+  {
+    "id": "56de1645cffd8e1900b4b5d0",
+    "question_en": "Who was Edward the Confessor's half-brother?",
+    "question": "Edward the Confessor-oda half-brother yaaru?",
+    "reference_answer": "Harthacnut"
+  },
+  {
+    "id": "56de1645cffd8e1900b4b5d1",
+    "question_en": "When did Edward return?",
+    "question": "Edward eppo return aanaaru?",
+    "reference_answer": "1041"
+  },
+  {
+    "id": "56de1645cffd8e1900b4b5d2",
+    "question_en": "Who did Edward make archbishop of Canterbury?",
+    "question": "Edward yaara Canterbury-oda archbishop aakkinaaru?",
+    "reference_answer": "Robert of Jumièges"
+  },
+  {
+    "id": "56de16ca4396321400ee25c5",
+    "question_en": "Where did Harold II die?",
+    "question": "Harold II enga iranthaaru?",
+    "reference_answer": "Battle of Hastings"
+  },
+  {
+    "id": "56de16ca4396321400ee25c6",
+    "question_en": "Who killed Harold II? ",
+    "question": "Harold II-a yaaru konnanga?",
+    "reference_answer": "William II"
+  },
+  {
+    "id": "56de16ca4396321400ee25c7",
+    "question_en": "When was the Battle of Hastings?",
+    "question": "Battle of Hastings eppo nadanthuchu?",
+    "reference_answer": "1066"
+  },
+  {
+    "id": "56de16ca4396321400ee25c8",
+    "question_en": "Who was the ruling class ahead of the Normans?",
+    "question": "Normans-kku munnadi ruling class-a irunthathu yaaru?",
+    "reference_answer": "Anglo-Saxons"
+  },
+  {
+    "id": "56de1728cffd8e1900b4b5d7",
+    "question_en": "What was the Anglo-Norman language's final form?",
+    "question": "Anglo-Norman language-oda final form enna?",
+    "reference_answer": "Modern English"
+  },
+  {
+    "id": "56de179dcffd8e1900b4b5da",
+    "question_en": "In what year did the Norman's invade at Bannow Bay?",
+    "question": "Normans entha year-la Bannow Bay-la invade pannaanga?",
+    "reference_answer": "1169"
+  },
+  {
+    "id": "56de179dcffd8e1900b4b5db",
+    "question_en": "What country did the Normans invade in 1169?",
+    "question": "1169-la Normans entha country-a invade pannaanga?",
+    "reference_answer": "Ireland"
+  },
+  {
+    "id": "56de179dcffd8e1900b4b5dc",
+    "question_en": "What culture did the Normans combine with in Ireland?",
+    "question": "Ireland-la Normans entha culture kooda combine aanaanga?",
+    "reference_answer": "Irish"
+  },
+  {
+    "id": "56de17f9cffd8e1900b4b5e0",
+    "question_en": "Who was Margaret's brother?",
+    "question": "Margaret-oda brother yaaru?",
+    "reference_answer": "Edgar"
+  },
+  {
+    "id": "56de17f9cffd8e1900b4b5e1",
+    "question_en": "Who was Margaret's husband?",
+    "question": "Margaret-oda husband yaaru?",
+    "reference_answer": "King Malcolm III of Scotland"
+  },
+  {
+    "id": "56de17f9cffd8e1900b4b5e2",
+    "question_en": "When was Scotland invaded by William?",
+    "question": "William Scotland-a eppo invade pannaaru?",
+    "reference_answer": "1072"
+  },
+  {
+    "id": "56de17f9cffd8e1900b4b5e3",
+    "question_en": "Who was the hostage?",
+    "question": "Hostage-a irunthathu yaaru?",
+    "reference_answer": "Duncan"
+  },
+  {
+    "id": "56de3cd0cffd8e1900b4b6be",
+    "question_en": "Who did Alexander I marry?",
+    "question": "Alexander I yaara marry pannaaru?",
+    "reference_answer": "Sybilla of Normandy"
+  },
+  {
+    "id": "56de3cd0cffd8e1900b4b6bf",
+    "question_en": "What culture's arrival in Scotland is know as the \"Davidian Revolution\"?",
+    "question": "Scotland-kku entha culture-oda arrival Davidian Revolution-nu solla paduthu?",
+    "reference_answer": "Norman"
+  },
+  {
+    "id": "56de3d594396321400ee26ca",
+    "question_en": "Where was Ralph earl of?",
+    "question": "Ralph enga earl-a irunthaaru?",
+    "reference_answer": "Hereford"
+  },
+  {
+    "id": "56de3d594396321400ee26cb",
+    "question_en": "Who was Ralph in charge of being at war with?",
+    "question": "Yaar kooda war-la irukka Ralph in charge-a irunthaaru?",
+    "reference_answer": "the Welsh"
+  },
+  {
+    "id": "56de3d594396321400ee26cc",
+    "question_en": "Who made Ralph earl?",
+    "question": "Ralph-a yaaru earl aakkinaanga?",
+    "reference_answer": "Edward the Confessor"
+  },
+  {
+    "id": "56de3dbacffd8e1900b4b6d2",
+    "question_en": "What country was under the control of Norman barons?",
+    "question": "Entha country Norman barons-oda control keela irunthuchu?",
+    "reference_answer": "Wales"
+  },
+  {
+    "id": "56de3e414396321400ee26d8",
+    "question_en": "What year did Roger de Tosny fail to accomplish what he set out to do?",
+    "question": "Roger de Tosny entha year-la aasaipatta vishayatha accomplish panna fail aanaaru?",
+    "reference_answer": "1018"
+  },
+  {
+    "id": "56de3e414396321400ee26d9",
+    "question_en": "Who was in charge of the papal army in the War of Barbastro?",
+    "question": "War of Barbastro-la papal army-kku in charge yaaru?",
+    "reference_answer": "William of Montreuil"
+  },
+  {
+    "id": "56de3ebc4396321400ee26e6",
+    "question_en": "When did the Siege of Antioch take place?",
+    "question": "Siege of Antioch eppo nadanthuchu?",
+    "reference_answer": "1097"
+  },
+  {
+    "id": "56de3ebc4396321400ee26e7",
+    "question_en": "What was the name of Bohemond's nephew?",
+    "question": "Bohemond-oda nephew name enna?",
+    "reference_answer": "Tancred"
+  },
+  {
+    "id": "56de3ebc4396321400ee26e8",
+    "question_en": "What major conquest did Tancred play a roll in?",
+    "question": "Tancred entha major conquest-la roll play pannaaru?",
+    "reference_answer": "Jerusalem"
+  },
+  {
+    "id": "56de3efccffd8e1900b4b6fe",
+    "question_en": "How long did Western Europe control Cyprus?",
+    "question": "Western Europe evlo naala Cyprus-a control pannaanga?",
+    "reference_answer": "380 years"
+  },
+  {
+    "id": "56de3f784396321400ee26fa",
+    "question_en": "What ruined Richard's plans to reach Acre?",
+    "question": "Acre-a reach panna Richard-oda plans-a ethu ruin pannuchu?",
+    "reference_answer": "a storm"
+  },
+  {
+    "id": "56de3f784396321400ee26fb",
+    "question_en": "Who was Richard's fiancee?",
+    "question": "Richard-oda fiancee yaaru?",
+    "reference_answer": "Berengaria"
+  },
+  {
+    "id": "56de3f784396321400ee26fc",
+    "question_en": "What year did the storm hit Richard's fleet?",
+    "question": "Richard-oda fleet-la entha year storm hit aachu?",
+    "reference_answer": "1191"
+  },
+  {
+    "id": "56de3f784396321400ee26fd",
+    "question_en": "Who ruled Cyprus in 1191?",
+    "question": "1191-la Cyprus-a yaaru rule pannaanga?",
+    "reference_answer": "Isaac Komnenos"
+  },
+  {
+    "id": "56de40da4396321400ee2708",
+    "question_en": "Who was Guy's Rival?",
+    "question": "Guy-oda Rival yaaru?",
+    "reference_answer": "Conrad of Montferrat"
+  },
+  {
+    "id": "56de40da4396321400ee2709",
+    "question_en": "What were Isaac's chains made out of?",
+    "question": "Isaac-oda chains ethala made aagi irunthuchu?",
+    "reference_answer": "silver"
+  },
+  {
+    "id": "56de40da4396321400ee270a",
+    "question_en": "Who led Richard's troops when Cyprus was conquered?",
+    "question": "Cyprus conquer aana appo Richard-oda troops-a yaaru lead pannaanga?",
+    "reference_answer": "Guy de Lusignan"
+  },
+  {
+    "id": "56de49564396321400ee277a",
+    "question_en": "What continent are the Canarian Islands off the coast of?",
+    "question": "Canarian Islands entha continent-oda coast-la irukku?",
+    "reference_answer": "Africa"
+  },
+  {
+    "id": "56de49a8cffd8e1900b4b7a7",
+    "question_en": "Who became the King of the Canary Islands?",
+    "question": "Canary Islands-oda King-a yaaru aanaanga?",
+    "reference_answer": "Bethencourt"
+  },
+  {
+    "id": "56de49a8cffd8e1900b4b7a8",
+    "question_en": "Who bought the rights?",
+    "question": "Rights-a yaaru vaanginaanga?",
+    "reference_answer": "Enrique Pérez de Guzmán"
+  },
+  {
+    "id": "56de49a8cffd8e1900b4b7a9",
+    "question_en": "Who sold the rights?",
+    "question": "Rights-a yaaru vithaanga?",
+    "reference_answer": "Maciot de Bethencourt"
+  },
+  {
+    "id": "56de4a474396321400ee2786",
+    "question_en": "Where are Jersey and Guernsey",
+    "question": "Jersey and Guernsey enga irukku?",
+    "reference_answer": "Channel Islands"
+  },
+  {
+    "id": "56de4a474396321400ee2787",
+    "question_en": "How many customaries does Norman customary law have?",
+    "question": "Norman customary law-la evlo customaries irukku?",
+    "reference_answer": "two"
+  },
+  {
+    "id": "56de4a89cffd8e1900b4b7bd",
+    "question_en": "What is the Norman architecture idiom?",
+    "question": "Norman architecture idiom enna?",
+    "reference_answer": "Romanesque"
+  },
+  {
+    "id": "56de4a89cffd8e1900b4b7be",
+    "question_en": "What kind of arches does Norman architecture have?",
+    "question": "Norman architecture-la entha maathiri arches irukku?",
+    "reference_answer": "rounded"
+  },
+  {
+    "id": "56de4b074396321400ee2793",
+    "question_en": "What architecture type came after Norman in England?",
+    "question": "England-la Norman-kku apram entha architecture type vanthuchu?",
+    "reference_answer": "Early Gothic"
+  },
+  {
+    "id": "56de4b074396321400ee2794",
+    "question_en": "What architecture type came before Norman in England?",
+    "question": "England-la Norman-kku munnadi entha architecture type irunthuchu?",
+    "reference_answer": "Anglo-Saxon"
+  },
+  {
+    "id": "56de4b074396321400ee2795",
+    "question_en": "What place had the Norman Arab architectural style?",
+    "question": "Entha edathula Norman Arab architectural style irunthuchu?",
+    "reference_answer": "Sicily"
+  },
+  {
+    "id": "56de4b5c4396321400ee2799",
+    "question_en": "When did the church reform begin?",
+    "question": "Church reform eppo start aachu?",
+    "reference_answer": "early 11th century"
+  },
+  {
+    "id": "56de4b5c4396321400ee279a",
+    "question_en": "Who used the church to unify themselves?",
+    "question": "Avangalaiye unify panna church-a yaaru use pannaanga?",
+    "reference_answer": "dukes"
+  },
+  {
+    "id": "56de4bb84396321400ee27a2",
+    "question_en": "When were the French wars of religion?",
+    "question": "French wars of religion eppo nadanthuchu?",
+    "reference_answer": "16th century"
+  },
+  {
+    "id": "56de4c324396321400ee27ab",
+    "question_en": "What kind of needlework was used in the creation of the Bayeux Tapestry?",
+    "question": "Bayeux Tapestry create panna entha maathiri needlework use pannaanga?",
+    "reference_answer": "embroidery"
+  },
+  {
+    "id": "56de4c324396321400ee27ac",
+    "question_en": "What is Norman art's most well known piece?",
+    "question": "Norman art-oda most well known piece enna?",
+    "reference_answer": "Bayeux Tapestry"
+  },
+  {
+    "id": "56de4c324396321400ee27ad",
+    "question_en": "Who commissioned the Tapestry?",
+    "question": "Tapestry-a yaaru commission pannaanga?",
+    "reference_answer": "Odo"
+  },
+  {
+    "id": "56de51244396321400ee27ef",
+    "question_en": "What is the most important type of Norman art preserved in churches?",
+    "question": "Churches-la preserve panna patta most important type of Norman art enna?",
+    "reference_answer": "mosaics"
+  },
+  {
+    "id": "56de51c64396321400ee27f7",
+    "question_en": "In what century did important classical music developments occur in Normandy?",
+    "question": "Normandy-la important classical music developments entha century-la nadanthuchu?",
+    "reference_answer": "11th"
+  },
+  {
+    "id": "56de51c64396321400ee27f8",
+    "question_en": "Who were the two abbots at Fécamp Abbey?",
+    "question": "Fécamp Abbey-la iruntha rendu abbots yaaru?",
+    "reference_answer": "William of Volpiano and John of Ravenna"
+  },
+  {
+    "id": "56de52614396321400ee27fb",
+    "question_en": "Where did the monks flee to?",
+    "question": "Monks enga thappi poanaanga?",
+    "reference_answer": "southern Italy"
+  },
+  {
+    "id": "56de52614396321400ee27fc",
+    "question_en": "What monastery did the Saint-Evroul monks establish in Italy?",
+    "question": "Saint-Evroul monks Italy-la entha monastery-a establish pannaanga?",
+    "reference_answer": "Latin monastery at Sant'Eufemia."
+  },
+  {
+    "id": "56de52614396321400ee27fd",
+    "question_en": "Who patronized the monks in Italy? ",
+    "question": "Italy-la monks-a yaaru patronize pannaanga?",
+    "reference_answer": "Robert Guiscard"
+  },
+  {
+    "id": "56de52614396321400ee27fe",
+    "question_en": "What tradition were the Saint-Evroul monks known for?",
+    "question": "Saint-Evroul monks entha tradition-kku known aagi irunthaanga?",
+    "reference_answer": "singing"
+  },
+  {
+    "id": "56e16182e3433e1400422e28",
+    "question_en": "What branch of theoretical computer science deals with broadly classifying computational problems by difficulty and class of relationship?",
+    "question": "Theoretical computer science-oda entha branch computational problems-a difficulty and class of relationship vechu broadly classify pannuthu?",
+    "reference_answer": "Computational complexity theory"
+  },
+  {
+    "id": "56e16182e3433e1400422e29",
+    "question_en": "By what main attribute are computational problems classified utilizing computational complexity theory? ",
+    "question": "Computational complexity theory-a utilize panni computational problems entha main attribute moolama classify panna paduthu?",
+    "reference_answer": "inherent difficulty"
+  },
+  {
+    "id": "56e16182e3433e1400422e2a",
+    "question_en": "What is the term for a task that generally lends itself to being solved by a computer?",
+    "question": "Computer-aala solve panna koodiya oru task-kkaana term enna?",
+    "reference_answer": "computational problems"
+  },
+  {
+    "id": "56e16839cd28a01900c67887",
+    "question_en": "What measure of a computational problem broadly defines the inherent difficulty of the solution?",
+    "question": "Oru computational problem-oda entha measure solution-oda inherent difficulty-a broadly define pannuthu?",
+    "reference_answer": "if its solution requires significant resources"
+  },
+  {
+    "id": "56e16839cd28a01900c67888",
+    "question_en": "What method is used to intuitively assess or quantify the amount of resources required to solve a computational problem?",
+    "question": "Oru computational problem-a solve panna thevaiyaana resources amount-a intuitively assess or quantify panna entha method use aaguthu?",
+    "reference_answer": "mathematical models of computation"
+  },
+  {
+    "id": "56e16839cd28a01900c67889",
+    "question_en": "What are two basic primary resources used to guage complexity?",
+    "question": "Complexity-a guage panna use aagum rendu basic primary resources enna?",
+    "reference_answer": "time and storage"
+  },
+  {
+    "id": "56e16839cd28a01900c6788a",
+    "question_en": "What unit is measured to determine circuit complexity?",
+    "question": "Circuit complexity-a determine panna entha unit measure panna paduthu?",
+    "reference_answer": "number of gates in a circuit"
+  },
+  {
+    "id": "56e16839cd28a01900c6788b",
+    "question_en": "What practical role does defining the complexity of problems play in everyday computing?",
+    "question": "Everyday computing-la problems-oda complexity-a define pandrathu entha maathiri practical role-a play pannuthu?",
+    "reference_answer": "determine the practical limits on what computers can and cannot do"
+  },
+  {
+    "id": "56e17644e3433e1400422f40",
+    "question_en": "What two fields of theoretical computer science closely mirror computational complexity theory?",
+    "question": "Theoretical computer science-oda entha rendu fields computational complexity theory-a closely mirror pannuthu?",
+    "reference_answer": "analysis of algorithms and computability theory"
+  },
+  {
+    "id": "56e17644e3433e1400422f41",
+    "question_en": "What field of computer science analyzes the resource requirements of a specific algorithm isolated unto itself within a given problem?",
+    "question": "Oru given problem-la oru specific algorithm-oda resource requirements-a isolate panni analyze pandra computer science field ethu?",
+    "reference_answer": "analysis of algorithms"
+  },
+  {
+    "id": "56e17644e3433e1400422f42",
+    "question_en": "What field of computer science analyzes all possible algorithms in aggregate to determine the resource requirements needed to solve to a given problem?  ",
+    "question": "Oru given problem-a solve panna thevaiyaana resource requirements-a determine panna all possible algorithms-a aggregate-la analyze pandra computer science field ethu?",
+    "reference_answer": "computational complexity theory"
+  },
+  {
+    "id": "56e17644e3433e1400422f43",
+    "question_en": "What field of computer science is primarily concerned with determining the likelihood of whether or not a problem can ultimately be solved using algorithms?",
+    "question": "Algorithms-a use panni oru problem-a ultimately solve panna mudiyuma mudiyaatha nu likelihood-a determine pandrathula primarily concern aagi irukka computer science field ethu?",
+    "reference_answer": "computability theory"
+  },
+  {
+    "id": "56e17a7ccd28a01900c679a1",
+    "question_en": "What is the name given to the input string of a computational problem?",
+    "question": "Oru computational problem-oda input string-kku kudukka patta name enna?",
+    "reference_answer": "problem instance"
+  },
+  {
+    "id": "56e17a7ccd28a01900c679a2",
+    "question_en": "In computational complexity theory, what is the term given to describe the baseline abstract question needing to be solved? ",
+    "question": "Computational complexity theory-la, solve panna thevai padura baseline abstract question-a describe panna kudukka patta term enna?",
+    "reference_answer": "the problem"
+  },
+  {
+    "id": "56e17a7ccd28a01900c679a3",
+    "question_en": "Is a problem instance typically characterized as abstract or concrete?",
+    "question": "Oru problem instance typically abstract illana concrete aagi characterize panna paduthaa?",
+    "reference_answer": "concrete"
+  },
+  {
+    "id": "56e17a7ccd28a01900c679a4",
+    "question_en": "What is another name for any given measure of input associated with a problem?",
+    "question": "Oru problem kooda associate aagi irukka entha oru given measure of input-kkum inoru name enna?",
+    "reference_answer": "instances"
+  },
+  {
+    "id": "56e17a7ccd28a01900c679a5",
+    "question_en": "What is the general term used to describe the output to any given input in a problem instance?",
+    "question": "Oru problem instance-la irukka entha oru given input-kkum output-a describe panna use aagum general term enna?",
+    "reference_answer": "solution"
+  },
+  {
+    "id": "56e17e6ee3433e1400422f7f",
+    "question_en": "By how many kilometers does the traveling salesman problem seek to classify a route between the 15 largest cities in Germany?",
+    "question": "Traveling salesman problem Germany-la irukka 15 largest cities naduvula oru route-a evlo kilometers-aala classify panna try pannuthu?",
+    "reference_answer": "2000"
+  },
+  {
+    "id": "56e17e6ee3433e1400422f80",
+    "question_en": "What is one example of an instance that the quantitative answer to the traveling salesman problem fails to answer?",
+    "question": "Traveling salesman problem-oda quantitative answer answer panna fail aagura oru instance-kku example enna?",
+    "reference_answer": "round trip through all sites in Milan"
+  },
+  {
+    "id": "56e17e6ee3433e1400422f81",
+    "question_en": "What does computational complexity theory most specifically seek to answer? ",
+    "question": "Computational complexity theory most specifically ethukku answer theduthu?",
+    "reference_answer": "computational problems"
+  },
+  {
+    "id": "56e181d9e3433e1400422fa0",
+    "question_en": "In a computational problem, what can be described as a string over an alphabet?",
+    "question": "Oru computational problem-la, oru alphabet mela irukka string-a epdi describe panna mudiyum?",
+    "reference_answer": "problem instance"
+  },
+  {
+    "id": "56e181d9e3433e1400422fa1",
+    "question_en": "What is the name of the alphabet is most commonly used in a problem instance?",
+    "question": "Oru problem instance-la most commonly use aagura alphabet-oda name enna?",
+    "reference_answer": "binary alphabet"
+  },
+  {
+    "id": "56e181d9e3433e1400422fa2",
+    "question_en": "What is another term for the string of a problem instance?",
+    "question": "Oru problem instance-oda string-kku inoru term enna?",
+    "reference_answer": "bitstrings"
+  },
+  {
+    "id": "56e181d9e3433e1400422fa3",
+    "question_en": "In the encoding of mathematical objects, what is the way in which integers are commonly expressed?",
+    "question": "Mathematical objects-oda encoding-la, integers-a commonly express pandra vazhi enna?",
+    "reference_answer": "binary notation"
+  },
+  {
+    "id": "56e181d9e3433e1400422fa4",
+    "question_en": "What is one way in which graphs can be encoded? ",
+    "question": "Graphs-a encode pandra oru vazhi enna?",
+    "reference_answer": "adjacency matrices"
+  },
+  {
+    "id": "56e190bce3433e1400422fc8",
+    "question_en": "What kind of problems are one of the main topics studied in computational complexity theory?",
+    "question": "Computational complexity theory-la study pandra main topics-la oru kind of problems enna?",
+    "reference_answer": "Decision problems"
+  },
+  {
+    "id": "56e190bce3433e1400422fc9",
+    "question_en": "What are the two simple word responses to a decision problem?",
+    "question": "Oru decision problem-kku rendu simple word responses enna?",
+    "reference_answer": "yes or no"
+  },
+  {
+    "id": "56e190bce3433e1400422fca",
+    "question_en": "What are the two integer responses to a decision problem?",
+    "question": "Oru decision problem-kku rendu integer responses enna?",
+    "reference_answer": "1 or 0"
+  },
+  {
+    "id": "56e190bce3433e1400422fcb",
+    "question_en": "What will the output be for a member of the language of a decision problem?",
+    "question": "Oru decision problem-oda language member-kku output ennava irukkum?",
+    "reference_answer": "yes"
+  },
+  {
+    "id": "56e190bce3433e1400422fcc",
+    "question_en": "What answer denotes that an algorithm has accepted an input string?",
+    "question": "Oru algorithm oru input string-a accept pannirukku nu entha answer denote pannuthu?",
+    "reference_answer": "yes"
+  },
+  {
+    "id": "56e19557e3433e1400422fee",
+    "question_en": "What kind of graph is an example of an input used in a decision problem?",
+    "question": "Oru decision problem-la use aagura input-kku entha maathiri graph oru example-a irukku?",
+    "reference_answer": "arbitrary graph"
+  },
+  {
+    "id": "56e19557e3433e1400422ff0",
+    "question_en": "What is the term for the set of all connected graphs related to this decision problem?",
+    "question": "Intha decision problem kooda relate aana set of all connected graphs-kkaana term enna?",
+    "reference_answer": "formal language"
+  },
+  {
+    "id": "56e19557e3433e1400422ff1",
+    "question_en": "What encoding decision needs to be made in order to determine an exact definition of the formal language?",
+    "question": "Formal language-oda exact definition-a determine panna entha encoding decision eduka padanum?",
+    "reference_answer": "how graphs are encoded as binary strings"
+  },
+  {
+    "id": "56e19724cd28a01900c679f6",
+    "question_en": "A function problem is an example of what?",
+    "question": "Function problem ethukku oru example?",
+    "reference_answer": "a computational problem"
+  },
+  {
+    "id": "56e19724cd28a01900c679f7",
+    "question_en": "How many outputs are expected for each input in a function problem?",
+    "question": "Oru function problem-la ovoru input-kkum evlo outputs expect panna paduthu?",
+    "reference_answer": "a single output"
+  },
+  {
+    "id": "56e19724cd28a01900c679f8",
+    "question_en": "The traveling salesman problem is an example of what type of problem?",
+    "question": "Traveling salesman problem entha type of problem-kku oru example?",
+    "reference_answer": "A function problem"
+  },
+  {
+    "id": "56e19724cd28a01900c679f9",
+    "question_en": "In addition to the traveling salesman problem, what is another example of a function problem?",
+    "question": "Traveling salesman problem mattum illama, function problem-kku inoru example enna?",
+    "reference_answer": "the integer factorization problem"
+  },
+  {
+    "id": "56e19724cd28a01900c679fa",
+    "question_en": "Is the output of a functional problem typically characterized by a simple or complex answer?",
+    "question": "Oru functional problem-oda output typically simple illana complex answer aala characterize panna paduthaa?",
+    "reference_answer": "complex"
+  },
+  {
+    "id": "56e1a0dccd28a01900c67a2e",
+    "question_en": "How can function problems typically be restated?",
+    "question": "Function problems-a typically epdi restate panna mudiyum?",
+    "reference_answer": "decision problems"
+  },
+  {
+    "id": "56e1a0dccd28a01900c67a2f",
+    "question_en": "If two integers are multiplied and output a value, what is this expression set called?",
+    "question": "Rendu integers-a multiply panni oru value output aaguthu na, intha expression set epdi call panna paduthu?",
+    "reference_answer": "set of triples"
+  },
+  {
+    "id": "56e1a38de3433e140042305c",
+    "question_en": "What is a commonly used measurement used to determine the complexity of a computational problem?",
+    "question": "Oru computational problem-oda complexity-a determine panna commonly use aagum measurement enna?",
+    "reference_answer": "how much time the best algorithm requires to solve the problem"
+  },
+  {
+    "id": "56e1a38de3433e140042305d",
+    "question_en": "What is one variable on which the running time may be contingent?",
+    "question": "Running time entha oru variable mela contingent aagi irukkum?",
+    "reference_answer": "the instance"
+  },
+  {
+    "id": "56e1a38de3433e140042305e",
+    "question_en": "How is the time needed to obtain the solution to a problem calculated?",
+    "question": "Oru problem-kku solution obtain panna thevai padura time epdi calculate aaguthu?",
+    "reference_answer": "as a function of the size of the instance"
+  },
+  {
+    "id": "56e1a38de3433e140042305f",
+    "question_en": "In what unit is the size of the input measured?",
+    "question": "Input-oda size entha unit-la measure panna paduthu?",
+    "reference_answer": "bits"
+  },
+  {
+    "id": "56e1a38de3433e1400423060",
+    "question_en": "Complexity theory seeks to define the relationship between the scale of algorithms with respect to what other variable?",
+    "question": "Complexity theory algorithms-oda scale-kkum entha matra variable-kkum naduvula irukka relationship-a define panna theduthu?",
+    "reference_answer": "an increase in the input size"
+  },
+  {
+    "id": "56e1a564cd28a01900c67a48",
+    "question_en": "Whose thesis states that the solution to a problem is solvable with reasonable resources assuming it allows for a polynomial time algorithm?",
+    "question": "Oru problem-oda solution-a polynomial time algorithm allow pandrappo reasonable resources vechu solve panna mudiyum nu yaaroda thesis soluthu?",
+    "reference_answer": "Cobham's thesis"
+  },
+  {
+    "id": "56e1a564cd28a01900c67a49",
+    "question_en": "If input size is is equal to n, what can respectively be assumed is the function of n?",
+    "question": "Input size n-kku equal-a iruntha, n-oda function nu ethu respectively assume panna padalaam?",
+    "reference_answer": "the time taken"
+  },
+  {
+    "id": "56e1a564cd28a01900c67a4a",
+    "question_en": "What term corresponds to the maximum measurement of time across all functions of n? ",
+    "question": "N-oda ellam functions-leyum maximum measurement of time-a entha term correspond pannuthu?",
+    "reference_answer": "worst-case time complexity"
+  },
+  {
+    "id": "56e1a564cd28a01900c67a4b",
+    "question_en": "How is worst-case time complexity written as an expression?",
+    "question": "Worst-case time complexity-a oru expression-a epdi ezhuthuvaanga?",
+    "reference_answer": "T(n)"
+  },
+  {
+    "id": "56e1a564cd28a01900c67a4c",
+    "question_en": "Assuming that T represents a polynomial in T(n), what is the term given to the corresponding algorithm?",
+    "question": "T(n)-la T oru polynomial-a represent pannuthu nu assume pannita, corresponding algorithm-kku kudukka patta term enna?",
+    "reference_answer": "polynomial time algorithm"
+  },
+  {
+    "id": "56e1aba0e3433e1400423094",
+    "question_en": "What is the term for a mathematical model that theoretically represents a general computing machine?",
+    "question": "Oru general computing machine-a theoretically represent pandra mathematical model-kkaana term enna?",
+    "reference_answer": "A Turing machine"
+  },
+  {
+    "id": "56e1aba0e3433e1400423095",
+    "question_en": "It is generally assumed that a Turing machine can solve anything capable of also being solved using what?",
+    "question": "Etha use panni solve panna koodiya ethayum oru Turing machine aalayum solve panna mudiyum nu generally assume panna paduthu?",
+    "reference_answer": "an algorithm"
+  },
+  {
+    "id": "56e1aba0e3433e1400423097",
+    "question_en": "What is the most commonplace model utilized in complexity theory?",
+    "question": "Complexity theory-la utilize panna padura most commonplace model enna?",
+    "reference_answer": "the Turing machine"
+  },
+  {
+    "id": "56e1aba0e3433e1400423098",
+    "question_en": "What does a Turing machine handle on a strip of tape?",
+    "question": "Oru strip of tape-la Turing machine etha handle pannuthu?",
+    "reference_answer": "symbols"
+  },
+  {
+    "id": "56e1aff7cd28a01900c67a68",
+    "question_en": "What is generally considered to be the most basic iteration of a Turing machine?",
+    "question": "Turing machine-oda most basic iteration-a generally ethu consider panna paduthu?",
+    "reference_answer": "A deterministic Turing machine"
+  },
+  {
+    "id": "56e1aff7cd28a01900c67a69",
+    "question_en": "What fixed set of factors determine the actions of a deterministic Turing machine",
+    "question": "Oru deterministic Turing machine-oda actions-a entha fixed set of factors determine pannuthu?",
+    "reference_answer": "rules"
+  },
+  {
+    "id": "56e1aff7cd28a01900c67a6a",
+    "question_en": "What is the term used to identify a deterministic Turing machine that has additional random bits?",
+    "question": "Additional random bits irukka oru deterministic Turing machine-a identify panna use aagum term enna?",
+    "reference_answer": "A probabilistic Turing machine"
+  },
+  {
+    "id": "56e1aff7cd28a01900c67a6b",
+    "question_en": "What type of Turing machine is capable of multiple actions and extends into a variety of computational paths?",
+    "question": "Entha type of Turing machine multiple actions panna mudiyum and variety of computational paths-kku extend aagum?",
+    "reference_answer": "A non-deterministic Turing machine"
+  },
+  {
+    "id": "56e1aff7cd28a01900c67a6c",
+    "question_en": "What is the term given to algorithms that utilize random bits?",
+    "question": "Random bits-a utilize pandra algorithms-kku kudukka patta term enna?",
+    "reference_answer": "randomized algorithms"
+  },
+  {
+    "id": "56e1b00ce3433e140042309e",
+    "question_en": "Turing machines are commonly employed to define what? ",
+    "question": "Turing machines commonly etha define panna employ panna paduthu?",
+    "reference_answer": "complexity classes"
+  },
+  {
+    "id": "56e1b00ce3433e140042309f",
+    "question_en": "What are two factors that directly effect how powerful a Turing machine may or may not be?",
+    "question": "Oru Turing machine evlo powerful-a irukkalaam illana illama pogalaam-nguratha directly effect pandra rendu factors enna?",
+    "reference_answer": "time or space"
+  },
+  {
+    "id": "56e1b00ce3433e14004230a1",
+    "question_en": "In the determination of complexity classes, what are two examples of types of Turing machines?",
+    "question": "Complexity classes determination-la, types of Turing machines-kku rendu examples enna?",
+    "reference_answer": "probabilistic Turing machines, non-deterministic Turing machines"
+  },
+  {
+    "id": "56e1b169cd28a01900c67a72",
+    "question_en": "What is an example of a machine model that deviates from a generally accepted multi-tape Turing machine?",
+    "question": "Generally accepted multi-tape Turing machine-lerunthu deviate aagura oru machine model-kku example enna?",
+    "reference_answer": "random access machines"
+  },
+  {
+    "id": "56e1b169cd28a01900c67a73",
+    "question_en": "In considering Turing machines and alternate variables, what measurement left unaffected by conversion between machine models? ",
+    "question": "Turing machines and alternate variables consider pandrappo, machine models naduvula conversion-nala affect aagama irukka measurement enna?",
+    "reference_answer": "computational power"
+  },
+  {
+    "id": "56e1b169cd28a01900c67a74",
+    "question_en": "What two resources commonly consumed by alternate models are typically known to vary?",
+    "question": "Alternate models-aala commonly consume panna padura entha rendu resources typically vary aagum nu theriyum?",
+    "reference_answer": "time and memory"
+  },
+  {
+    "id": "56e1b169cd28a01900c67a75",
+    "question_en": "What commonality do alternate machine models, such as random access machines, share with Turing machines?",
+    "question": "Random access machines maathiri alternate machine models, Turing machines kooda entha commonality-a share pannuthu?",
+    "reference_answer": "the machines operate deterministically"
+  },
+  {
+    "id": "56e1b355e3433e14004230b0",
+    "question_en": "What type of Turing machine can be characterized by checking multiple possibilities at the same time?",
+    "question": "Ore nerathula multiple possibilities-a check panni entha type of Turing machine-a characterize panna mudiyum?",
+    "reference_answer": "non-deterministic"
+  },
+  {
+    "id": "56e1b355e3433e14004230b1",
+    "question_en": "What often affects or facilitates ease of analysis in computational problems?",
+    "question": "Computational problems-la ease of analysis-a ethu often affect panni illana facilitate pannuthu?",
+    "reference_answer": "unusual resources"
+  },
+  {
+    "id": "56e1b355e3433e14004230b2",
+    "question_en": "A non-deterministic Turing machine has the ability to capture what facet of useful analysis?",
+    "question": "Oru non-deterministic Turing machine useful analysis-oda entha facet-a capture pandra ability vachirukku?",
+    "reference_answer": "mathematical models"
+  },
+  {
+    "id": "56e1b355e3433e14004230b3",
+    "question_en": "What is the most critical resource in the analysis of computational problems associated with non-deterministic Turing machines?",
+    "question": "Non-deterministic Turing machines kooda associate aana computational problems analysis-la most critical resource enna?",
+    "reference_answer": "time"
+  },
+  {
+    "id": "56e1b62ecd28a01900c67aa3",
+    "question_en": "The time required to output an answer on a deterministic Turing machine is expressed as what?",
+    "question": "Oru deterministic Turing machine-la answer output panna thevai padura time epdi express panna paduthu?",
+    "reference_answer": "state transitions"
+  },
+  {
+    "id": "56e1b62ecd28a01900c67aa4",
+    "question_en": "Complexity theory classifies problems based on what primary attribute?",
+    "question": "Complexity theory entha primary attribute-a base panni problems-a classify pannuthu?",
+    "reference_answer": "difficulty"
+  },
+  {
+    "id": "56e1b62ecd28a01900c67aa5",
+    "question_en": "What is the expression used to identify any given series of problems capable of being solved within time on a deterministic Turing machine?",
+    "question": "Oru deterministic Turing machine-la time-kulla solve panna mudiyura entha oru given series of problems-a identify panna use aagum expression enna?",
+    "reference_answer": "DTIME(f(n))"
+  },
+  {
+    "id": "56e1b62ecd28a01900c67aa6",
+    "question_en": "What is the most critical resource measured to in assessing the determination of a Turing machine's ability to solve any given set of problems?",
+    "question": "Entha oru given set of problems-ayum solve pandra oru Turing machine-oda ability determination-a assess pandrathula measure panna padura most critical resource enna?",
+    "reference_answer": "time"
+  },
+  {
+    "id": "56e1b754cd28a01900c67abc",
+    "question_en": "Time and space are both examples of what type of resource?",
+    "question": "Time and space rendu entha type of resource-kku examples?",
+    "reference_answer": "complexity resources"
+  },
+  {
+    "id": "56e1b754cd28a01900c67abd",
+    "question_en": "A complexity resource can also be described as what other type of resource?",
+    "question": "Oru complexity resource-a vera entha type of resource-a describe panna mudiyum?",
+    "reference_answer": "computational resource"
+  },
+  {
+    "id": "56e1b754cd28a01900c67abe",
+    "question_en": "What is typically used to broadly define complexity measures?",
+    "question": "Complexity measures-a broadly define panna typically ethu use aaguthu?",
+    "reference_answer": "Blum complexity axioms"
+  },
+  {
+    "id": "56e1b754cd28a01900c67abf",
+    "question_en": "Communication complexity is an example of what type of measure?",
+    "question": "Communication complexity entha type of measure-kku oru example?",
+    "reference_answer": "Complexity measures"
+  },
+  {
+    "id": "56e1b754cd28a01900c67ac0",
+    "question_en": "Decision tree is an example of what type of measure?",
+    "question": "Decision tree entha type of measure-kku oru example?",
+    "reference_answer": "Complexity measures"
+  },
+  {
+    "id": "56e1b8f3e3433e14004230e6",
+    "question_en": "What are the three primary expressions used to represent case complexity?",
+    "question": "Case complexity-a represent panna use aagum three primary expressions enna?",
+    "reference_answer": "best, worst and average"
+  },
+  {
+    "id": "56e1b8f3e3433e14004230e7",
+    "question_en": "Case complexity likelihoods provide variable probabilities of what general measure? ",
+    "question": "Case complexity likelihoods entha general measure-oda variable probabilities-a provide pannuthu?",
+    "reference_answer": "complexity measure"
+  },
+  {
+    "id": "56e1b8f3e3433e14004230e8",
+    "question_en": "What is one common example of a critical complexity measure?",
+    "question": "Oru critical complexity measure-kku oru common example enna?",
+    "reference_answer": "time"
+  },
+  {
+    "id": "56e1b8f3e3433e14004230e9",
+    "question_en": "Case complexities provide three likelihoods of what differing variable that remains the same size? ",
+    "question": "Ore size-la irukka entha differing variable-oda three likelihoods-a case complexities provide pannuthu?",
+    "reference_answer": "inputs"
+  },
+  {
+    "id": "56e1ba41cd28a01900c67ae0",
+    "question_en": "What provides a solution to a list of integers provided as input that ned to be sorted?",
+    "question": "Sort panna thevai padura input-a kudukka patta oru list of integers-kku ethu oru solution provide pannuthu?",
+    "reference_answer": "deterministic sorting algorithm quicksort"
+  },
+  {
+    "id": "56e1ba41cd28a01900c67ae1",
+    "question_en": "When extensive time is required to sort integers, this represents what case complexity?",
+    "question": "Integers-a sort panna extensive time thevai patta, ithu entha case complexity-a represent pannuthu?",
+    "reference_answer": "worst-case"
+  },
+  {
+    "id": "56e1ba41cd28a01900c67ae2",
+    "question_en": "What is the expression used to denote a worst case complexity as expressed by time taken?",
+    "question": "Edutha time vachu express pannura worst case complexity-a denote panna use aagum expression enna?",
+    "reference_answer": "O(n2)"
+  },
+  {
+    "id": "56e1bc3ae3433e1400423104",
+    "question_en": "Classification of resources is contingent on determining the upper and lower bounds of minimum time required by what?  ",
+    "question": "Ethu thevai padura minimum time-oda upper and lower bounds-a determine pandrathu mela classification of resources contingent aagi irukku?",
+    "reference_answer": "the most efficient algorithm"
+  },
+  {
+    "id": "56e1bc3ae3433e1400423105",
+    "question_en": "The analysis of a specific algorithm is typically assigned to what field of computational science?",
+    "question": "Oru specific algorithm-oda analysis typically computational science-oda entha field-kku assign panna paduthu?",
+    "reference_answer": "analysis of algorithms"
+  },
+  {
+    "id": "56e1bc3ae3433e1400423106",
+    "question_en": "Which bound of time is more difficult to establish?",
+    "question": "Entha bound of time establish panna romba difficult aagi irukku?",
+    "reference_answer": "lower bounds"
+  },
+  {
+    "id": "56e1bc3ae3433e1400423107",
+    "question_en": "A specific algorithm demonstrating T(n) represents what measure of time complexity?",
+    "question": "T(n)-a demonstrate pandra oru specific algorithm time complexity-oda entha measure-a represent pannuthu?",
+    "reference_answer": "upper bound"
+  },
+  {
+    "id": "56e1bc3ae3433e1400423108",
+    "question_en": "What is the colloquial phrase used to convey the continuum of algorithms with unlimited availability irrespective of time? ",
+    "question": "Time-a poruthama, unlimited availability vachirukka continuum of algorithms-a convey panna use aagum colloquial phrase enna?",
+    "reference_answer": "all possible algorithms"
+  },
+  {
+    "id": "56e1bd4acd28a01900c67afc",
+    "question_en": "What expression is generally used to convey upper or lower bounds?",
+    "question": "Upper or lower bounds-a convey panna generally entha expression use aaguthu?",
+    "reference_answer": "big O notation"
+  },
+  {
+    "id": "56e1bd4acd28a01900c67afd",
+    "question_en": "What does a big O notation hide?",
+    "question": "Oru big O notation etha hide pannuthu?",
+    "reference_answer": "constant factors and smaller terms"
+  },
+  {
+    "id": "56e1bd4acd28a01900c67afe",
+    "question_en": "How would one write T(n) = 7n2 + 15n + 40 in big O notation? ",
+    "question": "T(n) = 7n2 + 15n + 40-a big O notation-la epdi ezhuthuvaanga?",
+    "reference_answer": "T(n) = O(n2)"
+  },
+  {
+    "id": "56e1bd4acd28a01900c67aff",
+    "question_en": "Big O notation provides autonomy to upper and lower bounds with relationship to what? ",
+    "question": "Big O notation upper and lower bounds-kku etha poruthu autonomy provide pannuthu?",
+    "reference_answer": "the computational model"
+  },
+  {
+    "id": "56e1c0f6cd28a01900c67b2c",
+    "question_en": "What has complicated definitions that prevent classification into a framework?",
+    "question": "Oru framework-kulla classify pandratha prevent pandra complicated definitions ethula irukku?",
+    "reference_answer": "complexity classes"
+  },
+  {
+    "id": "56e1c0f6cd28a01900c67b2d",
+    "question_en": "Complexity classes are generally classified into what?",
+    "question": "Complexity classes generally ethula classify panna paduthu?",
+    "reference_answer": "framework"
+  },
+  {
+    "id": "56e1c0f6cd28a01900c67b2e",
+    "question_en": "Difficulty in establishing a framework for complexity classes can be caused by what variable?",
+    "question": "Complexity classes-kku oru framework establish pandrathula irukka difficulty entha variable-aala cause aagalaam?",
+    "reference_answer": "complicated definitions"
+  },
+  {
+    "id": "56e1c2eee3433e1400423134",
+    "question_en": "Concrete bounding of computation time frequently produces complexity classes contingent upon what?",
+    "question": "Computation time-oda concrete bounding frequently etha contingent panni complexity classes-a produce pannuthu?",
+    "reference_answer": "chosen machine model"
+  },
+  {
+    "id": "56e1c2eee3433e1400423135",
+    "question_en": "A multi-tape Turing machine requires what type of time for a solution?",
+    "question": "Oru multi-tape Turing machine-kku solution-kku entha type of time thevai paduthu?",
+    "reference_answer": "linear time"
+  },
+  {
+    "id": "56e1c2eee3433e1400423136",
+    "question_en": "A language solved in quadratic time implies the use of what type of Turing machine?",
+    "question": "Quadratic time-la solve panna patta oru language entha type of Turing machine-oda use-a imply pannuthu?",
+    "reference_answer": "single-tape Turing machines"
+  },
+  {
+    "id": "56e1c2eee3433e1400423137",
+    "question_en": "What thesis specifies that a polynomial relationship exists within time complexities in a computational model? ",
+    "question": "Oru computational model-la time complexities kulla polynomial relationship irukku nu entha thesis specify pannuthu?",
+    "reference_answer": "Cobham-Edmonds thesis"
+  },
+  {
+    "id": "56e1c2eee3433e1400423138",
+    "question_en": "Decision problems capable of being solved by a deterministic Turing machine while maintaining adherence to polynomial time belong to what class?",
+    "question": "Polynomial time-kku adherence maintain panni oru deterministic Turing machine-aala solve panna koodiya decision problems entha class-a sernthathu?",
+    "reference_answer": "complexity class P"
+  },
+  {
+    "id": "56e1c3e1e3433e1400423148",
+    "question_en": "What are two examples of measurements are bound within algorithms to establish complexity classes?",
+    "question": "Complexity classes-a establish panna algorithms kulla bound aagi irukka measurements-kku rendu examples enna?",
+    "reference_answer": "time or space"
+  },
+  {
+    "id": "56e1c3e1e3433e1400423149",
+    "question_en": "What function is used by algorithms to define measurements like time or space?",
+    "question": "Time or space maathiri measurements-a define panna algorithms-aala entha function use panna paduthu?",
+    "reference_answer": "bounding"
+  },
+  {
+    "id": "56e1c3e1e3433e140042314a",
+    "question_en": "Bounding of time and space or similar measurements is often used by algorithms to define what?",
+    "question": "Time and space or similar measurements-oda bounding algorithms-aala often etha define panna use aaguthu?",
+    "reference_answer": "complexity classes"
+  },
+  {
+    "id": "56e1c4fce3433e140042314e",
+    "question_en": "What are three examples of complexity classes associated with definitions established by probabilistic Turing machines?",
+    "question": "Probabilistic Turing machines establish panna definitions kooda associate aana complexity classes-kku moonu examples enna?",
+    "reference_answer": "BPP, ZPP and RP"
+  },
+  {
+    "id": "56e1c4fce3433e140042314f",
+    "question_en": "AC and NC are complexity classes typically associated with what type of circuit?",
+    "question": "AC and NC complexity classes typically entha type of circuit kooda associate aagi irukku?",
+    "reference_answer": "Boolean"
+  },
+  {
+    "id": "56e1c4fce3433e1400423150",
+    "question_en": "BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?",
+    "question": "BQP and QMA most commonly entha type of Turing machine kooda associate aana complexity classes-kku examples?",
+    "reference_answer": "quantum"
+  },
+  {
+    "id": "56e1c4fce3433e1400423151",
+    "question_en": "What is the expression used to represent a complexity class of counting problems?",
+    "question": "Counting problems-oda oru complexity class-a represent panna use aagum expression enna?",
+    "reference_answer": "#P"
+  },
+  {
+    "id": "56e1c4fce3433e1400423152",
+    "question_en": "IP and AM are most commonly defined by what type of proof system?",
+    "question": "IP and AM most commonly entha type of proof system aala define panna paduthu?",
+    "reference_answer": "Interactive"
+  },
+  {
+    "id": "56e1c720e3433e140042316a",
+    "question_en": "What is an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed?",
+    "question": "Bounds-a relax panna oru bigger set of problems-a create panna koodiya complexity class kulla irukka oru measurement-kku example enna?",
+    "reference_answer": "computation time"
+  },
+  {
+    "id": "56e1c720e3433e140042316b",
+    "question_en": "In what expression can one expect to find DTIME(n)",
+    "question": "Entha expression-la DTIME(n)-a find panna expect panna mudiyum?",
+    "reference_answer": "DTIME(n2)"
+  },
+  {
+    "id": "56e1c720e3433e140042316c",
+    "question_en": "What theorems are responsible for determining questions of time and space requirements?",
+    "question": "Time and space requirements questions-a determine panna entha theorems responsible aagi irukku?",
+    "reference_answer": "time and space hierarchy theorems"
+  },
+  {
+    "id": "56e1c720e3433e140042316d",
+    "question_en": "Resources are constrained by hierarchy theorems to produce what?",
+    "question": "Etha produce panna hierarchy theorems-aala resources constrain panna paduthu?",
+    "reference_answer": "a proper hierarchy on the classes defined"
+  },
+  {
+    "id": "56e1c720e3433e140042316e",
+    "question_en": "What kind of statement is made in the effort of establishing the time and space requirements needed to enhance the ultimate number of problems solved?",
+    "question": "Solve panna patta ultimate number of problems-a enhance panna thevaiyaana time and space requirements-a establish pandra effort-la entha kind of statement panna paduthu?",
+    "reference_answer": "quantitative statements"
+  },
+  {
+    "id": "56e1c7e2cd28a01900c67b74",
+    "question_en": "What is the foundation for separation results within complexity classes?",
+    "question": "Complexity classes kulla separation results-kku foundation enna?",
+    "reference_answer": "time and space hierarchy theorems"
+  },
+  {
+    "id": "56e1c7e2cd28a01900c67b75",
+    "question_en": "What is responsible for constraining P according to the time hierarchy theorem?",
+    "question": "Time hierarchy theorem padi P-a constrain panna ethu responsible?",
+    "reference_answer": "EXPTIME"
+  },
+  {
+    "id": "56e1c7e2cd28a01900c67b76",
+    "question_en": "Within what variable is L constrained according to the space hierarchy theorem?",
+    "question": "Space hierarchy theorem padi entha variable kulla L constrain aagi irukku?",
+    "reference_answer": "PSPACE"
+  },
+  {
+    "id": "56e1c9bfe3433e1400423192",
+    "question_en": "What concept is frequently used to define complexity classes?",
+    "question": "Complexity classes-a define panna entha concept frequently use aaguthu?",
+    "reference_answer": "reduction"
+  },
+  {
+    "id": "56e1c9bfe3433e1400423193",
+    "question_en": "Reduction essentially takes one problem and converts into what?",
+    "question": "Reduction essentially oru problem-a eduthu ethava convert pannuthu?",
+    "reference_answer": "another problem"
+  },
+  {
+    "id": "56e1c9bfe3433e1400423194",
+    "question_en": "According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",
+    "question": "Reduction padi, X and Y-a same algorithm aala solve panna mudiyum na, Y kooda relationship-la X entha function-a perform pannuthu?",
+    "reference_answer": "reduces"
+  },
+  {
+    "id": "56e1c9bfe3433e1400423195",
+    "question_en": "What are two examples of different types of reduction?",
+    "question": "Different types of reduction-kku rendu examples enna?",
+    "reference_answer": "Karp reductions and Levin reductions"
+  },
+  {
+    "id": "56e1c9bfe3433e1400423196",
+    "question_en": "Polynomial time reductions are an example of what?",
+    "question": "Polynomial time reductions ethukku oru example?",
+    "reference_answer": "the bound on the complexity of reductions"
+  },
+  {
+    "id": "56e1cbe2cd28a01900c67bac",
+    "question_en": "What is the most frequently employed type of reduction?",
+    "question": "Most frequently employ pandra type of reduction enna?",
+    "reference_answer": "polynomial-time reduction"
+  },
+  {
+    "id": "56e1cbe2cd28a01900c67bad",
+    "question_en": "What equates to a squared integer according to polynomial time reduction?",
+    "question": "Polynomial time reduction padi oru squared integer-kku ethu equate aaguthu?",
+    "reference_answer": "multiplying two integers"
+  },
+  {
+    "id": "56e1cbe2cd28a01900c67bae",
+    "question_en": "What measurement of time is used in polynomial time reduction?",
+    "question": "Polynomial time reduction-la entha time measurement use aaguthu?",
+    "reference_answer": "polynomial time"
+  },
+  {
+    "id": "56e1cbe2cd28a01900c67baf",
+    "question_en": "What would need to remain constant in a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers?  ",
+    "question": "Rendu integers-a multiply pannalum illana square pannalum same outcome-a produce panna oru multiplication algorithm-la ethu constant-a irukka thevai padum?",
+    "reference_answer": "input"
+  },
+  {
+    "id": "56e1cbe2cd28a01900c67bb0",
+    "question_en": "According to polynomial time reduction squaring can ultimately be logically reduced to what?",
+    "question": "Polynomial time reduction padi squaring-a ultimately logically ethuva reduce panna mudiyum?",
+    "reference_answer": "multiplication"
+  },
+  {
+    "id": "56e1ce08e3433e14004231a4",
+    "question_en": "The complexity of problems often depends on what?",
+    "question": "Problems-oda complexity often etha depend panni irukku?",
+    "reference_answer": "the type of reduction being used"
+  },
+  {
+    "id": "56e1ce08e3433e14004231a5",
+    "question_en": "What would create a conflict between a problem X and problem C within the context of reduction? ",
+    "question": "Reduction context kulla problem X matrum problem C naduvula ethu conflict-a create pannum?",
+    "reference_answer": "if every problem in C can be reduced to X"
+  },
+  {
+    "id": "56e1ce08e3433e14004231a6",
+    "question_en": "An algorithm for X which reduces to C would us to do what?",
+    "question": "C-kku reduce aagura X-kkaana algorithm namma etha panna vekkum?",
+    "reference_answer": "solve any problem in C"
+  },
+  {
+    "id": "56e1ce08e3433e14004231a8",
+    "question_en": "A problem set that that is hard for the expression NP can also be stated how?",
+    "question": "NP expression-kku hard-a irukka oru problem set-a epdiyum state panna mudiyum?",
+    "reference_answer": "NP-hard"
+  },
+  {
+    "id": "56e1d9fee3433e14004231cb",
+    "question_en": "The hardest problems in NP can be analogously written as what class of problems?",
+    "question": "NP-la irukka hardest problems-a analogously entha class of problems-a ezhutha mudiyum?",
+    "reference_answer": "NP-complete"
+  },
+  {
+    "id": "56e1d9fee3433e14004231cc",
+    "question_en": "NP complete problems contain the lowest likelihood of being located in what problem class?",
+    "question": "NP complete problems entha problem class-la locate aagi irukka lowest likelihood-a vachirukku?",
+    "reference_answer": "NP"
+  },
+  {
+    "id": "56e1d9fee3433e14004231cd",
+    "question_en": "If P = NP is unsolved, and reduction is applied to a known NP-complete problem vis a vis Π2 to  Π1, what conclusion can be drawn for Π1?",
+    "question": "P = NP unsolved aagi irunthu, and oru known NP-complete problem vis a vis Π2 to Π1-kku reduction apply aana, Π1-kku enna conclusion draw panna mudiyum?",
+    "reference_answer": "there is no known polynomial-time solution"
+  },
+  {
+    "id": "56e1d9fee3433e14004231ce",
+    "question_en": "If polynomial time can be utilized within an NP-complete problem, what does the imply P is equal to?",
+    "question": "Oru NP-complete problem kulla polynomial time utilize panna mudinja, ithu P ethukku equal aagi irukku nu imply pannuthu?",
+    "reference_answer": "NP"
+  },
+  {
+    "id": "56e1dc62cd28a01900c67bca",
+    "question_en": "What complexity class is characterized by a computational tasks and efficient algorithms?",
+    "question": "Computational tasks and efficient algorithms aala entha complexity class characterize panna paduthu?",
+    "reference_answer": "P"
+  },
+  {
+    "id": "56e1dc62cd28a01900c67bcb",
+    "question_en": "What hypothesis is associated with the complexity class of P viewed as a mathematical abstraction with efficient algorithmic functionality?",
+    "question": "Efficient algorithmic functionality kooda mathematical abstraction-a view panna P complexity class kooda entha hypothesis associate aagi irukku?",
+    "reference_answer": "Cobham–Edmonds thesis"
+  },
+  {
+    "id": "56e1dc62cd28a01900c67bcc",
+    "question_en": "What complexity class is commonly characterized by unknown algorithms to enhance solvability?",
+    "question": "Solvability-a enhance panna unknown algorithms aala commonly entha complexity class characterize panna paduthu?",
+    "reference_answer": "NP"
+  },
+  {
+    "id": "56e1dc62cd28a01900c67bcd",
+    "question_en": "What is an example of a problem that rests within the NP complexity class?",
+    "question": "NP complexity class kulla rest aagura oru problem-kku example enna?",
+    "reference_answer": "Boolean satisfiability problem"
+  },
+  {
+    "id": "56e1dc62cd28a01900c67bce",
+    "question_en": "In what theoretical machine is it confirmed that a problem in P belies membership in the NP class?",
+    "question": "P-la irukka oru problem NP class-la membership-a belies pannuthu nu entha theoretical machine-la confirm aagi irukku?",
+    "reference_answer": "Turing machines"
+  },
+  {
+    "id": "56e1ddfce3433e14004231d5",
+    "question_en": "If P is ultimately proven to be equal tot NP, what effect would this have on the efficiency of problems?",
+    "question": "P ultimately NP-kku equal nu prove aana, ithu problems-oda efficiency mela enna effect-a vachirukkum?",
+    "reference_answer": "more efficient solutions"
+  },
+  {
+    "id": "56e1ddfce3433e14004231d6",
+    "question_en": "What is a particular problem in biology that would benefit from determining that P = NP?",
+    "question": "P = NP nu determine pandrathaala benefit aagura biology-la irukka particular problem enna?",
+    "reference_answer": "protein structure prediction"
+  },
+  {
+    "id": "56e1ddfce3433e14004231d8",
+    "question_en": "What is the prize offered for finding a solution to P=NP?",
+    "question": "P=NP-kku solution kandupidikrathaala offer panna padura prize enna?",
+    "reference_answer": "$1,000,000"
+  },
+  {
+    "id": "56e1ded7cd28a01900c67bd4",
+    "question_en": "Who demonstrated that P= NP implies problems not present in P or NP-complete?",
+    "question": "P= NP problems P or NP-complete-la present aagala nu yaar demonstrate pannaanga?",
+    "reference_answer": "Ladner"
+  },
+  {
+    "id": "56e1ded7cd28a01900c67bd5",
+    "question_en": "What is the name for a problem that meets Ladner's assertion?",
+    "question": "Ladner's assertion-a meet pandra problem-kku name enna?",
+    "reference_answer": "NP-intermediate problems"
+  },
+  {
+    "id": "56e1ded7cd28a01900c67bd6",
+    "question_en": "What is an example of an NP-intermediate problem not known to exist in P or NP-complete? ",
+    "question": "P or NP-complete-la exist aagum nu theriyaatha NP-intermediate problem-kku oru example enna?",
+    "reference_answer": "graph isomorphism problem"
+  },
+  {
+    "id": "56e1e9dfe3433e14004231fc",
+    "question_en": "What is the problem attributed to defining if two finite graphs are isomorphic?",
+    "question": "Rendu finite graphs isomorphic aagi irukkaa nu define panna attribute aana problem enna?",
+    "reference_answer": "The graph isomorphism problem"
+  },
+  {
+    "id": "56e1e9dfe3433e14004231fd",
+    "question_en": "What class is most commonly not ascribed to the graph isomorphism problem in spite of definitive determination?",
+    "question": "Definitive determination irunthum kooda, graph isomorphism problem-kku most commonly entha class ascribe panna padala?",
+    "reference_answer": "NP-complete"
+  },
+  {
+    "id": "56e1e9dfe3433e14004231fe",
+    "question_en": "What finite hierarchy implies that the graph isomorphism problem is NP-complete? ",
+    "question": "Graph isomorphism problem NP-complete nu entha finite hierarchy imply pannuthu?",
+    "reference_answer": "polynomial time hierarchy"
+  },
+  {
+    "id": "56e1e9dfe3433e14004231ff",
+    "question_en": "To what level would the polynomial time hierarchy collapse if graph isomorphism is NP-complete?",
+    "question": "Graph isomorphism NP-complete aagi iruntha polynomial time hierarchy entha level-kku collapse aagum?",
+    "reference_answer": "second level"
+  },
+  {
+    "id": "56e1e9dfe3433e1400423200",
+    "question_en": "Who are commonly associated with the algorithm typically considered the most effective with respect to finite polynomial hierarchy and graph isomorphism?",
+    "question": "Finite polynomial hierarchy and graph isomorphism poruthavara most effective nu typically consider panna padura algorithm kooda commonly yaar associate aagi irukkaanga?",
+    "reference_answer": "Laszlo Babai and Eugene Luks"
+  },
+  {
+    "id": "56e1ec83cd28a01900c67c0a",
+    "question_en": "What computational problem is commonly associated with prime factorization?",
+    "question": "Prime factorization kooda commonly associate aana computational problem enna?",
+    "reference_answer": "The integer factorization problem"
+  },
+  {
+    "id": "56e1ec83cd28a01900c67c0b",
+    "question_en": "The integer factorization problem essentially seeks to determine if the value of of an input is less than what variable? ",
+    "question": "Integer factorization problem essentially oru input-oda value entha variable-a vida kammiya irukkaa nu determine panna theduthu?",
+    "reference_answer": "k"
+  },
+  {
+    "id": "56e1ec83cd28a01900c67c0c",
+    "question_en": "That there currently exists no known integer factorization problem underpins what commonly used system?",
+    "question": "Currently known integer factorization problem ethum illa ngurathu commonly use aagura entha system-a underpin pannuthu?",
+    "reference_answer": "modern cryptographic systems"
+  },
+  {
+    "id": "56e1ec83cd28a01900c67c0e",
+    "question_en": "What is the most well-known algorithm associated with the integer factorization problem?",
+    "question": "Integer factorization problem kooda associate aana most well-known algorithm enna?",
+    "reference_answer": "the general number field sieve"
+  },
+  {
+    "id": "56e1ee4de3433e1400423210",
+    "question_en": "What is the unproven assumption generally ascribed to the value of complexity classes?",
+    "question": "Complexity classes-oda value-kku generally ascribe panna padura unproven assumption enna?",
+    "reference_answer": "suspected to be unequal"
+  },
+  {
+    "id": "56e1ee4de3433e1400423211",
+    "question_en": "What is an expression that can be used to illustrate the suspected inequality of complexity classes?",
+    "question": "Complexity classes-oda suspected inequality-a illustrate panna use panna koodiya oru expression enna?",
+    "reference_answer": "P ⊆ NP ⊆ PP ⊆ PSPACE"
+  },
+  {
+    "id": "56e1ee4de3433e1400423212",
+    "question_en": "Where can the complexity classes RP, BPP, PP, BQP, MA, and PH be located?",
+    "question": "RP, BPP, PP, BQP, MA, matrum PH complexity classes-a enga locate panna mudiyum?",
+    "reference_answer": "between P and PSPACE"
+  },
+  {
+    "id": "56e1ee4de3433e1400423214",
+    "question_en": "What evidence between and among complexity classes would signify a theoretical watershed for complexity theory?",
+    "question": "Complexity classes kulla matrum naduvula irukka entha evidence complexity theory-kku oru theoretical watershed-a signify pannum?",
+    "reference_answer": "Proving that any of these classes are unequal"
+  },
+  {
+    "id": "56e1efa0e3433e140042321a",
+    "question_en": "In what complexity class do complement problems of NP problems exist?",
+    "question": "NP problems-oda complement problems entha complexity class-la exist aaguthu?",
+    "reference_answer": "co-NP"
+  },
+  {
+    "id": "56e1efa0e3433e140042321b",
+    "question_en": "How do the yes/no answers of a complement problem of NP appear?",
+    "question": "NP-oda oru complement problem-oda yes/no answers epdi appear aaguthu?",
+    "reference_answer": "reversed"
+  },
+  {
+    "id": "56e1efa0e3433e140042321c",
+    "question_en": "What is commonly believed to be the value relationship between P and co-NP",
+    "question": "P matrum co-NP naduvula irukka value relationship-a commonly ennanu namba paduthu?",
+    "reference_answer": "not equal"
+  },
+  {
+    "id": "56e1efa0e3433e140042321d",
+    "question_en": "What implication can be derived for P and NP if P and co-NP are established to be unequal?",
+    "question": "P matrum co-NP unequal nu establish aana, P matrum NP-kku enna implication derive panna mudiyum?",
+    "reference_answer": "P is not equal to NP"
+  },
+  {
+    "id": "56e1f10ee3433e1400423222",
+    "question_en": "What variable is associated with all problems solved within logarithmic space?",
+    "question": "Logarithmic space kulla solve panna patta ellam problems koodayum entha variable associate aagi irukku?",
+    "reference_answer": "L"
+  },
+  {
+    "id": "56e1f10ee3433e1400423223",
+    "question_en": "Though unkown, what are the most commonly ascribed attributes of L in relation to P",
+    "question": "Theriyala naalum, P-a poruthavara L-kku most commonly ascribe panna patta attributes enna?",
+    "reference_answer": "strictly contained in P or equal to P"
+  },
+  {
+    "id": "56e1f10ee3433e1400423224",
+    "question_en": "What lies between L and P that prevents a definitive determination of the relationship between L and P?",
+    "question": "L matrum P naduvula L and P-oda relationship-a definitive determination pandratha prevent pandrathu enna?",
+    "reference_answer": "complexity classes"
+  },
+  {
+    "id": "56e1f10ee3433e1400423225",
+    "question_en": "What are two complexity classes between L and P?",
+    "question": "L matrum P naduvula irukka rendu complexity classes enna?",
+    "reference_answer": "NL and NC"
+  },
+  {
+    "id": "56e1f10ee3433e1400423226",
+    "question_en": "What is unknown about the complexity classes between L and P that further prevents determining the value relationship between L and P?",
+    "question": "L matrum P-oda value relationship-a determine pandratha innum prevent pandra maathiri L and P naduvula irukka complexity classes pathi enna theriyaama irukku?",
+    "reference_answer": "if they are distinct or equal classes"
+  },
+  {
+    "id": "56e1fc57e3433e140042322c",
+    "question_en": "Problems capable of theoretical solutions but consuming unreasonable time in practical application are known as what?",
+    "question": "Theoretical solutions mudinjum, aana practical application-la unreasonable time consume pandra problems epdi known aagi irukku?",
+    "reference_answer": "intractable problems"
+  },
+  {
+    "id": "56e1fc57e3433e140042322f",
+    "question_en": "Intractable problems lacking polynomial time solutions necessarily negate the practical efficacy of what type of algorithm?",
+    "question": "Polynomial time solutions illama irukka intractable problems, entha type of algorithm-oda practical efficacy-a necessarily negate pannuthu?",
+    "reference_answer": "exponential-time algorithms"
+  },
+  {
+    "id": "56e1fc57e3433e1400423230",
+    "question_en": "If NP is not equal to P, viewed through this lens, what type of problems can also be considered intractable?",
+    "question": "NP P-kku equal illana, intha lens moolama paarkum pothu, entha type of problems-a intractable aagavum consider panna mudiyum?",
+    "reference_answer": "NP-complete problems"
+  },
+  {
+    "id": "56e1febfe3433e1400423236",
+    "question_en": "What eponymous variation of arithmetic presents a decision problem not evidenced in P?",
+    "question": "P-la evidence illatha oru decision problem-a arithmetic-oda entha eponymous variation present pannuthu?",
+    "reference_answer": "Presburger arithmetic"
+  },
+  {
+    "id": "56e1febfe3433e1400423237",
+    "question_en": "Despite the Presburger problem, and in view of intractability, what has been done to establish solutions in reasonable periods of time?",
+    "question": "Presburger problem irunthum, intractability-a vechu paarkaiyila, reasonable periods of time-la solutions-a establish panna enna panni irukkaanga?",
+    "reference_answer": "algorithms have been written"
+  },
+  {
+    "id": "56e1febfe3433e1400423238",
+    "question_en": "What is an example of a problem to which effective algorithms have provided a solution in spite of the intractability associated with the breadth of sizes?",
+    "question": "Breadth of sizes kooda associate aana intractability irunthum effective algorithms oru solution provide panna oru problem-kku example enna?",
+    "reference_answer": "NP-complete knapsack problem"
+  },
+  {
+    "id": "56e1febfe3433e1400423239",
+    "question_en": "How quickly can an algorithm solve an NP-complete knapsack problem?",
+    "question": "Oru NP-complete knapsack problem-a oru algorithm evlo quickly solve panna mudiyum?",
+    "reference_answer": "in less than quadratic time"
+  },
+  {
+    "id": "56e1febfe3433e140042323a",
+    "question_en": "What is the example of another problem characterized by large instances that is routinely solved by SAT handlers employing efficient algorithms?",
+    "question": "Efficient algorithms employ panni SAT handlers routinely solve pandra, large instances aala characterize panna patta inoru problem-kku example enna?",
+    "reference_answer": "NP-complete Boolean satisfiability problem"
+  },
+  {
+    "id": "56e200e4cd28a01900c67c14",
+    "question_en": "What tactic did researchers employ to offset the former deficit of work surrounding the complexity of algorithmic problems?",
+    "question": "Algorithmic problems-oda complexity surrounding-la iruntha former deficit of work-a offset panna researchers entha tactic-a employ pannaanga?",
+    "reference_answer": "foundations were laid out"
+  },
+  {
+    "id": "56e200e4cd28a01900c67c15",
+    "question_en": "Who was the most influential researcher among those grappling with the deficit of work surrounding the complexity posed by algorithmic problems?",
+    "question": "Algorithmic problems pose panna complexity surrounding-la iruntha deficit of work-a grapple pannaavangala yaaru most influential researcher aagi irunthaanga?",
+    "reference_answer": "Alan Turing"
+  },
+  {
+    "id": "56e200e4cd28a01900c67c16",
+    "question_en": "What theoretical device is attributed to Alan Turing?",
+    "question": "Alan Turing-kku entha theoretical device attribute panna paduthu?",
+    "reference_answer": "Turing machines"
+  },
+  {
+    "id": "56e200e4cd28a01900c67c17",
+    "question_en": "In what year was the Alan Turing's definitional model of a computing device received?",
+    "question": "Alan Turing-oda definitional model of a computing device entha year-la receive aachu?",
+    "reference_answer": "1936"
+  },
+  {
+    "id": "56e200e4cd28a01900c67c18",
+    "question_en": "In the most basic sense what did a Turing machine emulate?",
+    "question": "Most basic sense-la oru Turing machine etha emulate pannuchu?",
+    "reference_answer": "a computer"
+  },
+  {
+    "id": "56e202e9e3433e1400423240",
+    "question_en": "What paper is commonly considered the bellwether ushering in systematic studies computational complexity?",
+    "question": "Computational complexity systematic studies usher in pandra bellwether nu entha paper commonly consider panna paduthu?",
+    "reference_answer": "On the Computational Complexity of Algorithms"
+  },
+  {
+    "id": "56e202e9e3433e1400423241",
+    "question_en": "What individuals were responsible for authoring \"On the Computational Complexity of Algorithms\"?",
+    "question": "On the Computational Complexity of Algorithms author pannathukku entha individuals responsible aagi irunthaanga?",
+    "reference_answer": "Juris Hartmanis and Richard Stearns"
+  },
+  {
+    "id": "56e202e9e3433e1400423242",
+    "question_en": "In what year was Hatmanis and Stearn's seminal work in computational complexity received? ",
+    "question": "Hatmanis and Stearn-oda computational complexity seminal work entha year-la receive aachu?",
+    "reference_answer": "1965"
+  },
+  {
+    "id": "56e202e9e3433e1400423243",
+    "question_en": "What complex measurements were defined by \"On the Computational Complexity of Algorithms\"?",
+    "question": "On the Computational Complexity of Algorithms moolama entha complex measurements define panna patthathu?",
+    "reference_answer": "time and space"
+  },
+  {
+    "id": "56e202e9e3433e1400423244",
+    "question_en": "In what year did Edmond's characterize a \"good\" algorithm?",
+    "question": "Edmond oru good algorithm-a entha year-la characterize pannaaru?",
+    "reference_answer": "1965"
+  },
+  {
+    "id": "56e2042ecd28a01900c67c1e",
+    "question_en": "Who provided a definition of linear bounded automata in 1960?",
+    "question": "1960-la linear bounded automata-kkaana definition-a yaaru provide pannaanga?",
+    "reference_answer": "John Myhill"
+  },
+  {
+    "id": "56e2042ecd28a01900c67c1f",
+    "question_en": "In what year did Raymond Sullivan publish a study of rudimentary sets?",
+    "question": "Raymond Sullivan rudimentary sets pathina oru study-a entha year-la publish pannaaru?",
+    "reference_answer": "1961"
+  },
+  {
+    "id": "56e2042ecd28a01900c67c20",
+    "question_en": "In 1962, who was responsible for the authorship of a paper published on real time-computations?",
+    "question": "1962-la, real time-computations mela publish aana oru paper-oda authorship-kku yaaru responsible aagi irunthaanga?",
+    "reference_answer": "Hisao Yamada"
+  },
+  {
+    "id": "56e20a27cd28a01900c67c24",
+    "question_en": "What is the concrete choice typically assumed by most complexity-theoretic theorems?",
+    "question": "Most complexity-theoretic theorems aala typically assume pandra concrete choice enna?",
+    "reference_answer": "input encoding"
+  },
+  {
+    "id": "56e20a27cd28a01900c67c25",
+    "question_en": "In the effort of maintaining a level of abstraction, what choice is typically left independent?",
+    "question": "Oru level of abstraction maintain pandra effort-la, entha choice typically independent-a vida paduthu?",
+    "reference_answer": "encoding"
+  },
+  {
+    "id": "56e20a3ae3433e140042324a",
+    "question_en": "Who is responsible for axiomatic complexity theory?",
+    "question": "Axiomatic complexity theory-kku yaaru responsible?",
+    "reference_answer": "Manuel Blum"
+  },
+  {
+    "id": "56e20a3ae3433e140042324b",
+    "question_en": "What theorem was implicated by Manuel Blum's axioms?",
+    "question": "Manuel Blum's axioms aala entha theorem implicate panna patthathu?",
+    "reference_answer": "speed-up theorem"
+  },
+  {
+    "id": "56e20a3ae3433e140042324d",
+    "question_en": "What is the paper written by Richard Karp in 1972 that ushered in a new era of understanding between intractability and NP-complete problems?",
+    "question": "Intractability matrum NP-complete problems naduvula oru new era of understanding-a usher in pandra maathiri 1972-la Richard Karp ezhuthina paper enna?",
+    "reference_answer": "Reducibility Among Combinatorial Problems"
+  },
+  {
+    "id": "56e20a3ae3433e140042324e",
+    "question_en": "How many combinatory and graph theoretical problems, formerly believed to be plagued by intractability, did Karp's paper address?",
+    "question": "Intractability aala plagued aagi irukku nu formerly believe panna patta evlo combinatory and graph theoretical problems-a Karp-oda paper address pannuchu?",
+    "reference_answer": "21"
+  },
+  {
+    "id": "5705e26d75f01819005e76d4",
+    "question_en": "What is Southern California often abbreviated as?",
+    "question": "Southern California often epdi abbreviate panna paduthu?",
+    "reference_answer": "SoCal"
+  },
+  {
+    "id": "5705e26d75f01819005e76d5",
+    "question_en": "Despite being traditionall described as \"eight counties\", how many counties does this region actually have?",
+    "question": "eight counties nu traditionally describe pannalum, intha region actual-a evlo counties vachirukku?",
+    "reference_answer": "10 counties"
+  },
+  {
+    "id": "5705e26d75f01819005e76d6",
+    "question_en": "What is a major importance of Southern California in relation to California and the United States?",
+    "question": "California matrum United States-a poruthavara Southern California-oda oru major importance enna?",
+    "reference_answer": "economic center"
+  },
+  {
+    "id": "5705e26d75f01819005e76d7",
+    "question_en": "What are the ties that best described what the \"eight counties\" are based on?",
+    "question": "eight counties etha base panni irukku nguratha best-a describe pandra ties enna?",
+    "reference_answer": "demographics and economic ties"
+  },
+  {
+    "id": "5705e26d75f01819005e76d8",
+    "question_en": "The reasons for the las two counties to be added are based on what?",
+    "question": "Last rendu counties add panna karanangal etha base panni irunthuchu?",
+    "reference_answer": "historical political divisions"
+  },
+  {
+    "id": "5705e33f52bb89140068964c",
+    "question_en": "What is the name of the region that is not defined by the eight or 10 county definitions?",
+    "question": "Eight or 10 county definitions aala define aagaatha region-oda name enna?",
+    "reference_answer": "Southern California Megaregion"
+  },
+  {
+    "id": "5705e33f52bb89140068964d",
+    "question_en": "How many megaregions are there in the United States?",
+    "question": "United States-la evlo megaregions irukku?",
+    "reference_answer": "11"
+  }
+]
