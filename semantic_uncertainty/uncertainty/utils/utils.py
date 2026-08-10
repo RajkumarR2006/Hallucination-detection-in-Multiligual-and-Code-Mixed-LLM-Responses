@@ -45,8 +45,19 @@ def get_parser(stages=['generate', 'compute']):
             help="Max number of tokens generated.",
         )
         parser.add_argument(
-            "--dataset", type=str, default="trivia_qa",
-            choices=['trivia_qa', 'squad', 'bioasq', 'nq', 'svamp'],
+            "--dataset",
+            type=str,
+            default="trivia_qa",
+            choices=[
+                'trivia_qa',
+                'squad',
+                'bioasq',
+                'nq',
+                'svamp',
+                'english',
+                'tamil',
+                'tanglish',
+            ],
             help="Dataset to use")
         parser.add_argument(
             "--ood_train_dataset", type=str, default=None,
