@@ -97,7 +97,8 @@ class HuggingfaceModel(BaseModel):
 
             if model_name.endswith('-8bit'):
                 kwargs = {'quantization_config': BitsAndBytesConfig(
-                    load_in_8bit=True,)}
+                    load_in_8bit=True,
+                    llm_int8_enable_fp32_cpu_offload=True,)}
                 model_name = model_name[:-len('-8bit')]
                 eightbit = True
             else:
@@ -119,8 +120,10 @@ class HuggingfaceModel(BaseModel):
 
             if ('7b' in model_name or '13b' in model_name) or eightbit:
                 self.model = AutoModelForCausalLM.from_pretrained(
-                    f"{base}/{model_name}", device_map="auto",
-                    max_memory={0: '80GIB'}, **kwargs,)
+                    f"{base}/{model_name}",
+                    device_map="auto",
+                    max_memory={0: "5GiB", "cpu": "10GiB"},
+                    **kwargs,)
 
             elif llama2_70b or llama65b:
                 path = snapshot_download(

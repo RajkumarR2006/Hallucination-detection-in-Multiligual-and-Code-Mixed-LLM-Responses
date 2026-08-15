@@ -34,7 +34,7 @@ def main(args):
     if args.train_wandb_runid is None:
         args.train_wandb_runid = args.eval_wandb_runid
 
-    user = os.environ['USER']
+    user = os.environ.get('USER') or os.environ.get('USERNAME', 'user')
     scratch_dir = os.getenv('SCRATCH_DIR', '.')
     wandb_dir = f'{scratch_dir}/{user}/uncertainty'
     slurm_jobid = os.getenv('SLURM_JOB_ID', None)
