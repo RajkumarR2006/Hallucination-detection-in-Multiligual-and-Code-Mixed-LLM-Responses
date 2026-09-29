@@ -196,7 +196,7 @@ class HuggingfaceModel(BaseModel):
             raise ValueError
 
         self.model_name = model_name
-        self.stop_sequences = stop_sequences + [self.tokenizer.eos_token]
+        self.stop_sequences = (stop_sequences or []) + [self.tokenizer.eos_token]
         self.token_limit = 4096 if 'Llama-2' in model_name else 2048
 
     def predict(self, input_data, temperature, return_full=False):
