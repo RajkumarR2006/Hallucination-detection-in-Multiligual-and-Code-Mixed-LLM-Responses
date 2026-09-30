@@ -39,37 +39,48 @@ def main(args):
     wandb_dir = f'{scratch_dir}/{user}/uncertainty'
     slurm_jobid = os.getenv('SLURM_JOB_ID', None)
     project = "semantic_uncertainty" if not args.debug else "semantic_uncertainty_debug"
-    if args.assign_new_wandb_id:
-        logging.info('Assign new wandb_id.')
-        api = wandb.Api()
-        old_run = api.run(f'{args.restore_entity_eval}/{project}/{args.eval_wandb_runid}')
+
+    # Ensure a W&B run exists before using wandb.config/wandb.run.
+    # generate_answers.py may already have an active run; in that case reuse it.
+    if wandb.run is None:
         wandb.init(
-            entity=args.entity,
             project=project,
             dir=wandb_dir,
-            notes=f'slurm_id: {slurm_jobid}, experiment_lot: {args.experiment_lot}',
-            # For convenience, keep any 'generate_answers' configs from old run,
-            # but overwrite the rest!
-            # NOTE: This means any special configs affecting this script must be
-            # called again when calling this script!
-            config={**old_run.config, **args.__dict__},
+            mode="offline",
+            config=args.__dict__,
         )
 
-        def restore(filename):
-            old_run.file(filename).download(
-                replace=True, exist_ok=False, root=wandb.run.dir)
-
-            class Restored:
-                name = f'{wandb.run.dir}/{filename}'
-
-            return Restored
+    # Generation files normally live in the active run directory.
+    # For a standalone compute run, SOURCE_WANDB_RUN_DIR can point to
+    # an existing local W&B run containing validation_generations.pkl.
+    source_run_dir = os.getenv("SOURCE_WANDB_RUN_DIR")
+    if source_run_dir:
+        source_run_dir = os.path.abspath(source_run_dir)
     else:
-        logging.info('Reuse active wandb id.')
+        source_run_dir = os.path.abspath(wandb.run.dir)
 
-        def restore(filename):
-            class Restored:
-                name = f'{wandb.run.dir}/{filename}'
-            return Restored
+    logging.info("Using source generation directory: %s", source_run_dir)
+
+    def restore(filename):
+        path = os.path.join(source_run_dir, filename)
+        if not os.path.isfile(path):
+            raise FileNotFoundError(
+                f"Required file not found: {path}\n"
+                "Set SOURCE_WANDB_RUN_DIR to the local W&B run directory "
+                "containing the generation files."
+            )
+
+        class Restored:
+            name = path
+
+        return Restored
+
+    # Local/offline workflow: do not call wandb.Api() or require a cloud
+    # W&B account. The local generation files are restored by restore().
+    if args.assign_new_wandb_id:
+        logging.info("Using local/offline W&B run; no cloud restore required.")
+    else:
+        logging.info("Reusing local W&B run.")
 
     if args.train_wandb_runid != args.eval_wandb_runid:
         logging.info(
