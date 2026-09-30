@@ -5,7 +5,9 @@ from tenacity import retry, wait_random_exponential, retry_if_not_exception_type
 from openai import OpenAI
 
 
-CLIENT = OpenAI(api_key=os.environ.get('OPENAI_API_KEY', False))
+api_key = os.environ.get("OPENAI_API_KEY")
+
+CLIENT = OpenAI(api_key=api_key) if api_key else None
 
 
 class KeyError(Exception):
