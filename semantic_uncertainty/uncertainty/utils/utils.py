@@ -348,6 +348,17 @@ def get_metric(metric):
 
 
 def save(object, file):
-    with open(f'{wandb.run.dir}/{file}', 'wb') as f:
+    path = os.path.join(wandb.run.dir, file)
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+
+    with open(path, 'wb') as f:
         pickle.dump(object, f)
-    wandb.save(os.path.abspath(os.path.join(wandb.run.dir, file)))
+
+    logging.info('Saved file: %s (%d bytes)', path, os.path.getsize(path))
+
+    wandb.save(os.path.abspath(path))
+
+    logging.info(
+        'Verified file exists after wandb.save: %s',
+        os.path.exists(path)
+    )
